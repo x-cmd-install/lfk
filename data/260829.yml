@@ -1,0 +1,60 @@
+about:
+  description: ⚡ LFK is a lightning-fast, keyboard-focused, yazi-inspired terminal user interface for navigating and managing Kubernetes clusters. Built for speed and efficiency, it brings a three-column Miller columns layout with an owner-based resource hierarchy to your terminal.
+  license: Apache-2.0
+  homepage: 
+  head: 7173221
+  archived: false
+  latestVersion: v0.18.4
+  collectedAt: 2026-08-29T07:00:57Z
+timeline:
+  created: 2026-03-15
+  lastCommit: 2026-08-28
+  lastRelease: 2026-08-28
+popularity:
+  star: 826
+  watcher: 4
+  fork: 31
+  release: 163
+  contributor: 17
+  pullRequest: 31
+  issue: 117
+language:
+  Go: 12066530
+  Makefile: 4885
+  Shell: 2954
+  Nix: 2362
+  Dockerfile: 984
+totalLine: 12077715
+recent:
+  last30d:
+    since: 2026-07-30
+    release: 14
+    mergedPR: 117
+    openPR: 2
+    closedIssue: 9
+    openIssue: 3
+    commit: 117
+  last90d:
+    since: 2026-05-31
+    release: 59
+    mergedPR: 330
+    openPR: 2
+    closedIssue: 41
+    openIssue: 3
+    commit: 330
+  last180d:
+    since: 2026-03-02
+    release: 100
+    mergedPR: 560
+    openPR: 3
+    closedIssue: 113
+    openIssue: 4
+    commit: 1047
+  last360d:
+    since: 2025-09-03
+    release: 100
+    mergedPR: 560
+    openPR: 3
+    closedIssue: 113
+    openIssue: 4
+    commit: 1047
