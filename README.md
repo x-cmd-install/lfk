@@ -4,10 +4,10 @@
 
 - **Upstream**: <https://github.com/janosmiko/lfk>
 - **Homepage**: <>
-- **Latest release**: `v0.18.9` (2026-09-08)
+- **Latest release**: `v0.18.10` (2026-09-09)
 - **Last commit**: 2026-09-09
 - **License**: Apache-2.0
-- **Stars**: 878 · **Forks**: 34 · **Open issues**: 119 · **Contributors**: 17
+- **Stars**: 881 · **Forks**: 34 · **Open issues**: 120 · **Contributors**: 17
 
 ## Installation
 
@@ -21,4 +21,4 @@ See <https://x-cmd.com/install/lfk> for details.
 
 This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-09T05:26:45Z._
+_Last regenerated: 2026-09-09T19:23:06Z._
