@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.18.11"
   latestRelease: "v0.18.11"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T20:50:05Z
+  collectedAt: 2026-09-10T22:55:58Z
 timeline:
   created: 2026-03-15
   lastCommit: 2026-09-10
@@ -35,59 +35,59 @@ recent:
     release: 18
     mergedPR: 121
     openPR: 1
-    closedIssue: 10
-    openIssue: 4
+    closedIssue: 11
+    openIssue: 3
     commit: 115
   last60d:
     since: 2026-07-12
     release: 30
     mergedPR: 202
     openPR: 1
-    closedIssue: 17
-    openIssue: 4
+    closedIssue: 18
+    openIssue: 3
     commit: 194
   last90d:
     since: 2026-06-12
     release: 52
     mergedPR: 292
     openPR: 1
-    closedIssue: 23
-    openIssue: 4
+    closedIssue: 24
+    openIssue: 3
     commit: 288
   last180d:
     since: 2026-03-14
     release: 100
     mergedPR: 607
     openPR: 2
-    closedIssue: 117
-    openIssue: 5
+    closedIssue: 118
+    openIssue: 4
     commit: 1073
   last360d:
     since: 2025-09-15
     release: 100
     mergedPR: 607
     openPR: 2
-    closedIssue: 117
-    openIssue: 5
+    closedIssue: 118
+    openIssue: 4
     commit: 1093
   last720d:
     since: 2024-09-20
     release: 100
     mergedPR: 607
     openPR: 2
-    closedIssue: 117
-    openIssue: 5
+    closedIssue: 118
+    openIssue: 4
     commit: 1120
 total:
   release: 170
   mergedPR: 607
   openPR: 2
-  closedIssue: 117
-  openIssue: 5
+  closedIssue: 118
+  openIssue: 4
   commit: 1120
 ---
 path: /home/runner/.x-repo/github.com/janosmiko/lfk
-collectedAt: 2026-09-10T20:50:10Z
+collectedAt: 2026-09-10T22:56:04Z
 loc:
   Go:
     code: 291662
