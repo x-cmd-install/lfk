@@ -1,0 +1,60 @@
+- repo: aur
+  srcname: lfk
+  binname: lfk
+  visiblename: lfk
+  version: 0.18.9
+  origversion: 0.18.9-1
+  status: outdated
+  summary: Lightning Fast Kubernetes navigator - keyboard-focused TUI for managing K8s clusters
+  maintainers:
+    - lmartinez-mirror@aur
+  licenses:
+    - Apache-2.0
+- repo: aur
+  srcname: lfk-bin
+  binname: lfk-bin
+  visiblename: lfk-bin
+  version: 0.18.11
+  origversion: 0.18.11-1
+  status: newest
+  summary: Lightning Fast Kubernetes navigator - keyboard-focused TUI for managing K8s clusters
+  maintainers:
+    - janosmiko@aur
+  licenses:
+    - Apache-2.0
+- repo: chocolatey
+  binname: lfk
+  visiblename: LFK (Lightning Fast Kubernetes navigator)
+  version: 0.18.8
+  origversion: null
+  status: outdated
+  summary: Lightning Fast Kubernetes navigator
+- repo: homebrew
+  srcname: lfk
+  visiblename: lfk
+  version: 0.18.11
+  origversion: null
+  status: newest
+  summary: Terminal user interface for navigating and managing Kubernetes clusters
+- repo: nix_stable_26_05
+  srcname: lfk
+  visiblename: lfk
+  version: 0.10.2
+  origversion: null
+  status: outdated
+  summary: Lightning Fast Kubernetes navigator
+  maintainers:
+    - gwg313@pm.me
+  licenses:
+    - Apache-2.0
+- repo: nix_unstable
+  srcname: lfk
+  visiblename: lfk
+  version: 0.14.19
+  origversion: null
+  status: outdated
+  summary: Lightning Fast Kubernetes navigator
+  maintainers:
+    - gwg313@pm.me
+  licenses:
+    - Apache-2.0

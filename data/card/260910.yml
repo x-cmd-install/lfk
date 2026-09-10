@@ -2,100 +2,100 @@ about:
   description: "⚡ LFK is a lightning-fast, keyboard-focused, yazi-inspired terminal user interface for navigating and managing Kubernetes clusters. Built for speed and efficiency, it brings a three-column Miller columns layout with an owner-based resource hierarchy to your terminal."
   license: Apache-2.0
   homepage: 
-  head: f6543aa
+  head: 893d837
   archived: false
-  latestVersion: "v0.18.10"
-  latestRelease: "v0.18.10"
+  latestVersion: "v0.18.11"
+  latestRelease: "v0.18.11"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T05:26:00Z
+  collectedAt: 2026-09-10T20:50:05Z
 timeline:
   created: 2026-03-15
-  lastCommit: 2026-09-09
-  lastVersion: 2026-09-09
-  lastRelease: 2026-09-09
+  lastCommit: 2026-09-10
+  lastVersion: 2026-09-10
+  lastRelease: 2026-09-10
   lastPrerelease: 
 popularity:
-  star: 884
+  star: 886
   watcher: 4
   fork: 34
-  release: 169
+  release: 170
   contributor: 17
-  pullRequest: 627
-  issue: 121
+  pullRequest: 637
+  issue: 122
 language:
-  Go: 12290985
+  Go: 12474013
   Makefile: 5644
   Shell: 2954
   Nix: 2363
   Dockerfile: 984
-totalBytes: 12302930
+totalBytes: 12485958
 recent:
   last30d:
     since: 2026-08-11
-    release: 17
-    mergedPR: 111
+    release: 18
+    mergedPR: 121
     openPR: 1
-    closedIssue: 9
+    closedIssue: 10
     openIssue: 4
-    commit: 105
+    commit: 115
   last60d:
     since: 2026-07-12
-    release: 29
-    mergedPR: 192
+    release: 30
+    mergedPR: 202
     openPR: 1
-    closedIssue: 16
+    closedIssue: 17
     openIssue: 4
-    commit: 184
+    commit: 194
   last90d:
     since: 2026-06-12
-    release: 51
-    mergedPR: 282
+    release: 52
+    mergedPR: 292
     openPR: 1
-    closedIssue: 22
+    closedIssue: 23
     openIssue: 4
-    commit: 278
+    commit: 288
   last180d:
     since: 2026-03-14
     release: 100
-    mergedPR: 597
+    mergedPR: 607
     openPR: 2
-    closedIssue: 116
+    closedIssue: 117
     openIssue: 5
-    commit: 1063
+    commit: 1073
   last360d:
     since: 2025-09-15
     release: 100
-    mergedPR: 597
+    mergedPR: 607
     openPR: 2
-    closedIssue: 116
+    closedIssue: 117
     openIssue: 5
-    commit: 1083
+    commit: 1093
   last720d:
     since: 2024-09-20
     release: 100
-    mergedPR: 597
+    mergedPR: 607
     openPR: 2
-    closedIssue: 116
+    closedIssue: 117
     openIssue: 5
-    commit: 1110
+    commit: 1120
 total:
-  release: 169
-  mergedPR: 597
+  release: 170
+  mergedPR: 607
   openPR: 2
-  closedIssue: 116
+  closedIssue: 117
   openIssue: 5
-  commit: 1110
+  commit: 1120
 ---
 path: /home/runner/.x-repo/github.com/janosmiko/lfk
-collectedAt: 2026-09-10T05:26:06Z
+collectedAt: 2026-09-10T20:50:10Z
 loc:
   Go:
-    code: 286990
-    comments: 47435
-    blanks: 35485
-    files: 1475
+    code: 291662
+    comments: 47760
+    blanks: 36041
+    files: 1508
   Json:
-    code: 1080
+    code: 1081
     comments: 0
     blanks: 0
     files: 2
@@ -121,27 +121,40 @@ loc:
     files: 1
   Markdown:
     code: 0
-    comments: 4332
-    blanks: 1667
+    comments: 4356
+    blanks: 1680
     files: 16
 total:
-  code: 288836
-  comments: 52510
-  blanks: 37302
-  files: 1497
+  code: 293509
+  comments: 52859
+  blanks: 37871
+  files: 1530
 ---
-date: "2026-09-09T14:16:02Z"
+date: "2026-09-10T14:24:41Z"
 repo:
   name: github.com/janosmiko/lfk
-  commit: f6543aa1a9a0d0305d915607ba9ad485670ae05e
+  commit: 893d8370fc15242f41c17b04cbdd6de8e5bb54c4
 scorecard:
   version: v5.5.0
   commit: c395761df6afe1a69e476bc60a013a94bcbc153f
 score: 8.3
 checks:
+  - name: Dangerous-Workflow
+    score: 10
+    reason: no dangerous workflow patterns detected
+    details: null
+  - name: Code-Review
+    score: 0
+    reason: Found 0/28 approved changesets -- score normalized to 0
+    details: null
+  - name: Dependency-Update-Tool
+    score: 10
+    reason: update tool detected
+    details:
+      - 'Info: detected update tool: Dependabot: .github/dependabot.yml:1'
   - name: Maintained
     score: 10
-    reason: 30 commit(s) and 18 issue activity found in the last 90 days -- score normalized to 10
+    reason: 30 commit(s) and 19 issue activity found in the last 90 days -- score normalized to 10
     details: null
   - name: Security-Policy
     score: 10
@@ -151,10 +164,6 @@ checks:
       - 'Info: Found linked content: SECURITY.md:1'
       - 'Info: Found disclosure, vulnerability, and/or timelines in security policy: SECURITY.md:1'
       - 'Info: Found text in security policy: SECURITY.md:1'
-  - name: Code-Review
-    score: 0
-    reason: Found 0/26 approved changesets -- score normalized to 0
-    details: null
   - name: Token-Permissions
     score: 10
     reason: GitHub workflow tokens follow principle of least privilege
@@ -175,15 +184,6 @@ checks:
       - 'Info: topLevel permissions set to ''read-all'': .github/workflows/scorecard.yml:10'
       - 'Info: topLevel ''contents'' permission set to ''read'': .github/workflows/stale.yml:19'
       - 'Info: topLevel ''contents'' permission set to ''read'': .github/workflows/validate-pr.yml:22'
-  - name: Dangerous-Workflow
-    score: 10
-    reason: no dangerous workflow patterns detected
-    details: null
-  - name: Dependency-Update-Tool
-    score: 10
-    reason: update tool detected
-    details:
-      - 'Info: detected update tool: Dependabot: .github/dependabot.yml:1'
   - name: Binary-Artifacts
     score: 10
     reason: no binaries found in the repo
@@ -195,23 +195,46 @@ checks:
       - 'Warn: pipCommand not pinned by hash: .github/workflows/release.yml:191'
       - 'Info:  30 out of  30 GitHub-owned GitHubAction dependencies pinned'
       - 'Info:  15 out of  15 third-party GitHubAction dependencies pinned'
+      - 'Info:   0 out of   1 pipCommand dependencies pinned'
       - 'Info:   3 out of   3 containerImage dependencies pinned'
       - 'Info:   2 out of   2 goCommand dependencies pinned'
-      - 'Info:   0 out of   1 pipCommand dependencies pinned'
-  - name: CII-Best-Practices
-    score: 5
-    reason: 'badge detected: Passing'
-    details: null
   - name: Vulnerabilities
     score: 10
     reason: 0 existing vulnerabilities detected
     details: null
+  - name: CII-Best-Practices
+    score: 5
+    reason: 'badge detected: Passing'
+    details: null
+  - name: Signed-Releases
+    score: 8
+    reason: 4 out of the last 4 releases have a total of 4 signed artifacts.
+    details:
+      - 'Info: signed release artifact: checksums.txt.sigstore: https://github.com/janosmiko/lfk/releases/tag/v0.18.10'
+      - 'Info: signed release artifact: checksums.txt.sigstore: https://github.com/janosmiko/lfk/releases/tag/v0.18.9'
+      - 'Info: signed release artifact: checksums.txt.sigstore: https://github.com/janosmiko/lfk/releases/tag/v0.18.8'
+      - 'Info: signed release artifact: checksums.txt.sigstore: https://github.com/janosmiko/lfk/releases/tag/v0.18.7'
+      - 'Warn: release artifact v0.18.10 does not have provenance: https://api.github.com/repos/janosmiko/lfk/releases/385579687'
+      - 'Warn: release artifact v0.18.9 does not have provenance: https://api.github.com/repos/janosmiko/lfk/releases/384452194'
+      - 'Warn: release artifact v0.18.8 does not have provenance: https://api.github.com/repos/janosmiko/lfk/releases/383187186'
+      - 'Warn: release artifact v0.18.7 does not have provenance: https://api.github.com/repos/janosmiko/lfk/releases/381725170'
+  - name: Packaging
+    score: 10
+    reason: packaging workflow detected
+    details:
+      - 'Info: Project packages its releases by way of GitHub Actions.: .github/workflows/release.yml:123'
   - name: SAST
     score: 10
     reason: SAST tool is run on all commits
     details:
       - 'Info: SAST configuration detected: CodeQL'
       - 'Info: all commits (30) are checked with a SAST tool'
+  - name: License
+    score: 10
+    reason: license file detected
+    details:
+      - 'Info: project has a license file: LICENSE:0'
+      - 'Info: FSF or OSI recognized license: Apache License 2.0: LICENSE:0'
   - name: Fuzzing
     score: 10
     reason: project is fuzzed
@@ -225,29 +248,6 @@ checks:
       - 'Info: GoBuiltInFuzzer integration found: internal/ui/search_fuzz_test.go:81'
       - 'Info: GoBuiltInFuzzer integration found: internal/ui/search_fuzz_test.go:114'
       - 'Info: GoBuiltInFuzzer integration found: internal/ui/search_fuzz_test.go:139'
-  - name: Signed-Releases
-    score: 8
-    reason: 4 out of the last 4 releases have a total of 4 signed artifacts.
-    details:
-      - 'Info: signed release artifact: checksums.txt.sigstore: https://github.com/janosmiko/lfk/releases/tag/v0.18.9'
-      - 'Info: signed release artifact: checksums.txt.sigstore: https://github.com/janosmiko/lfk/releases/tag/v0.18.8'
-      - 'Info: signed release artifact: checksums.txt.sigstore: https://github.com/janosmiko/lfk/releases/tag/v0.18.7'
-      - 'Info: signed release artifact: checksums.txt.sigstore: https://github.com/janosmiko/lfk/releases/tag/v0.18.6'
-      - 'Warn: release artifact v0.18.9 does not have provenance: https://api.github.com/repos/janosmiko/lfk/releases/384452194'
-      - 'Warn: release artifact v0.18.8 does not have provenance: https://api.github.com/repos/janosmiko/lfk/releases/383187186'
-      - 'Warn: release artifact v0.18.7 does not have provenance: https://api.github.com/repos/janosmiko/lfk/releases/381725170'
-      - 'Warn: release artifact v0.18.6 does not have provenance: https://api.github.com/repos/janosmiko/lfk/releases/380981178'
-  - name: Packaging
-    score: 10
-    reason: packaging workflow detected
-    details:
-      - 'Info: Project packages its releases by way of GitHub Actions.: .github/workflows/release.yml:123'
-  - name: License
-    score: 10
-    reason: license file detected
-    details:
-      - 'Info: project has a license file: LICENSE:0'
-      - 'Info: FSF or OSI recognized license: Apache License 2.0: LICENSE:0'
   - name: Branch-Protection
     score: 4
     reason: branch protection is not maximal on development and all release branches
