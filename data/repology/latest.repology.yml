@@ -14,8 +14,8 @@
   srcname: lfk-bin
   binname: lfk-bin
   visiblename: lfk-bin
-  version: 0.18.11
-  origversion: 0.18.11-1
+  version: 0.18.12
+  origversion: 0.18.12-1
   status: newest
   summary: Lightning Fast Kubernetes navigator - keyboard-focused TUI for managing K8s clusters
   maintainers:
@@ -32,7 +32,7 @@
 - repo: homebrew
   srcname: lfk
   visiblename: lfk
-  version: 0.18.11
+  version: 0.18.12
   origversion: null
   status: newest
   summary: Terminal user interface for navigating and managing Kubernetes clusters
