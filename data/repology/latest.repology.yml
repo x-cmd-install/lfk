@@ -2,9 +2,9 @@
   srcname: lfk
   binname: lfk
   visiblename: lfk
-  version: 0.18.9
-  origversion: 0.18.9-1
-  status: outdated
+  version: 0.18.12
+  origversion: 0.18.12-1
+  status: newest
   summary: Lightning Fast Kubernetes navigator - keyboard-focused TUI for managing K8s clusters
   maintainers:
     - lmartinez-mirror@aur
