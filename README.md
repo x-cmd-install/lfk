@@ -14,13 +14,13 @@ x install lfk
 
 ## Code insight
 
-Total: **287,877** lines of code across **1539** files in the top 5 languages.
+Total: **288,286** lines of code across **1543** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 286,468 | 47,891 | 36,450 | 1533 |
-| Json | 1,097 | 0 | 0 | 2 |
-| Yaml | 125 | 632 | 56 | 2 |
+| Go | 286,873 | 47,936 | 36,512 | 1537 |
+| Json | 1,101 | 0 | 0 | 2 |
+| Yaml | 125 | 636 | 57 | 2 |
 | Makefile | 106 | 9 | 15 | 1 |
 | Nix | 53 | 7 | 10 | 1 |
 
@@ -30,7 +30,7 @@ Overall score: **8.4 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (0/10) — Found 2/28 approved changesets -- score normalized to 0
+- **Code-Review** (0/10) — Found 1/28 approved changesets -- score normalized to 0
 - **Branch-Protection** (4/10) — branch protection is not maximal on development and all release branches
 - **Contributors** (3/10) — project has 1 contributing companies or organizations -- score normalized to 3
 
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.18.14` (2026-09-14)
-- **Last commit**: 2026-09-16
+- **Last commit**: 2026-09-17
 - **Assets in release**: 18
 
 ## Popularity
 
-- **Stars**: 892 · **Forks**: 36 · **Open issues**: 128 · **Contributors**: 19
+- **Stars**: 893 · **Forks**: 36 · **Open issues**: 128 · **Contributors**: 19
 
 ## Totals (cumulative)
 
-- **Releases**: 173 · **Merged PRs**: 639 · **Open PRs**: 2 · **Closed issues**: 119 · **Open issues**: 9 · **Commits**: 1152
+- **Releases**: 173 · **Merged PRs**: 643 · **Open PRs**: 7 · **Closed issues**: 119 · **Open issues**: 9 · **Commits**: 1156
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-17 | 18 | 132 | 1 | 11 | 8 | 111 |
-| last60d | 2026-07-18 | 29 | 220 | 1 | 16 | 8 | 210 |
-| 90d | 2026-06-18 | 48 | 303 | 1 | 23 | 8 | 296 |
-| last180d | 2026-03-20 | 100 | 639 | 2 | 119 | 9 | 1068 |
-| 360d | 2025-09-21 | 100 | 639 | 2 | 119 | 9 | 1125 |
-| last720d | 2024-09-26 | 100 | 639 | 2 | 119 | 9 | 1152 |
+| 30d | 2026-08-18 | 17 | 134 | 6 | 11 | 8 | 115 |
+| last60d | 2026-07-19 | 29 | 224 | 6 | 16 | 8 | 214 |
+| 90d | 2026-06-19 | 48 | 305 | 6 | 23 | 8 | 300 |
+| last180d | 2026-03-21 | 100 | 643 | 7 | 119 | 9 | 1072 |
+| 360d | 2025-09-22 | 100 | 643 | 7 | 119 | 9 | 1129 |
+| last720d | 2024-09-27 | 100 | 643 | 7 | 119 | 9 | 1156 |
 
 ## Release assets
 
@@ -96,4 +96,4 @@ Install metadata for lfk lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260916.yml` · 2026-09-16T05:41:47Z._
+_Snapshot: `data/card/260917.yml` · 2026-09-17T05:40:21Z._
