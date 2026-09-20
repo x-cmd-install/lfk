@@ -4,7 +4,7 @@
 
 ⚡ LFK is a lightning-fast, keyboard-focused, yazi-inspired terminal user interface for navigating and managing Kubernetes clusters. Built for speed and efficiency, it brings a three-column Miller columns layout with an owner-based resource hierarchy to your terminal.
 
-![lfk](https://repo.x-cmd.io/lfk.svg)
+[![x-cmd/install — lfk Code Quality Monitoring Repo Card](https://repo.x-cmd.io/lfk.svg)](https://x-cmd.com/install/lfk)
 
 ## Install
 
@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 895 · **Forks**: 36 · **Open issues**: 128 · **Contributors**: 19
+- **Stars**: 898 · **Forks**: 36 · **Open issues**: 128 · **Contributors**: 19
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 18 | 137 | 1 | 15 | 4 | 121 |
-| last60d | 2026-07-20 | 30 | 222 | 1 | 20 | 4 | 220 |
-| 90d | 2026-06-20 | 48 | 311 | 1 | 26 | 4 | 306 |
-| last180d | 2026-03-22 | 100 | 649 | 2 | 123 | 5 | 1078 |
-| 360d | 2025-09-23 | 100 | 649 | 2 | 123 | 5 | 1135 |
-| last720d | 2024-09-28 | 100 | 649 | 2 | 123 | 5 | 1162 |
+| 30d | 2026-08-21 | 16 | 117 | 1 | 14 | 4 | 92 |
+| last60d | 2026-07-22 | 27 | 220 | 1 | 20 | 4 | 205 |
+| 90d | 2026-06-22 | 47 | 298 | 1 | 26 | 4 | 283 |
+| last180d | 2026-03-24 | 100 | 649 | 2 | 123 | 5 | 978 |
+| 360d | 2025-09-25 | 100 | 649 | 2 | 123 | 5 | 1135 |
+| last720d | 2024-09-30 | 100 | 649 | 2 | 123 | 5 | 1162 |
 
 ## Release assets
 
@@ -96,4 +96,4 @@ Install metadata for lfk lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T05:27:48Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:34:04Z._
