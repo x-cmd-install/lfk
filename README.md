@@ -30,7 +30,7 @@ Overall score: **8.4 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (0/10) — Found 1/28 approved changesets -- score normalized to 0
+- **Code-Review** (0/10) — Found 1/23 approved changesets -- score normalized to 0
 - **Branch-Protection** (4/10) — branch protection is not maximal on development and all release branches
 - **Contributors** (3/10) — project has 1 contributing companies or organizations -- score normalized to 3
 
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.18.15` (2026-09-17)
-- **Last commit**: 2026-09-17
+- **Last commit**: 2026-09-21
 - **Assets in release**: 18
 
 ## Popularity
 
-- **Stars**: 900 · **Forks**: 36 · **Open issues**: 128 · **Contributors**: 19
+- **Stars**: 900 · **Forks**: 36 · **Open issues**: 129 · **Contributors**: 19
 
 ## Totals (cumulative)
 
-- **Releases**: 174 · **Merged PRs**: 649 · **Open PRs**: 2 · **Closed issues**: 123 · **Open issues**: 5 · **Commits**: 1162
+- **Releases**: 174 · **Merged PRs**: 654 · **Open PRs**: 2 · **Closed issues**: 123 · **Open issues**: 6 · **Commits**: 1167
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-22 | 15 | 110 | 1 | 14 | 4 | 92 |
-| last60d | 2026-07-23 | 27 | 218 | 1 | 20 | 4 | 205 |
-| 90d | 2026-06-23 | 46 | 292 | 1 | 26 | 4 | 283 |
-| last180d | 2026-03-25 | 100 | 649 | 2 | 123 | 5 | 978 |
-| 360d | 2025-09-26 | 100 | 649 | 2 | 123 | 5 | 1135 |
-| last720d | 2024-10-01 | 100 | 649 | 2 | 123 | 5 | 1162 |
+| 30d | 2026-08-23 | 14 | 115 | 1 | 14 | 5 | 97 |
+| last60d | 2026-07-24 | 26 | 223 | 1 | 20 | 5 | 210 |
+| 90d | 2026-06-24 | 45 | 291 | 1 | 26 | 5 | 288 |
+| last180d | 2026-03-26 | 100 | 654 | 2 | 123 | 6 | 983 |
+| 360d | 2025-09-27 | 100 | 654 | 2 | 123 | 6 | 1140 |
+| last720d | 2024-10-02 | 100 | 654 | 2 | 123 | 6 | 1167 |
 
 ## Release assets
 
@@ -96,4 +96,4 @@ Install metadata for lfk lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260921.yml` · 2026-09-21T05:35:08Z._
+_Snapshot: `data/card/260922.yml` · 2026-09-22T05:38:28Z._
