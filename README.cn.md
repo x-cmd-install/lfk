@@ -4,7 +4,7 @@
 
 ⚡ LFK is a lightning-fast, keyboard-focused, yazi-inspired terminal user interface for navigating and managing Kubernetes clusters. Built for speed and efficiency, it brings a three-column Miller columns layout with an owner-based resource hierarchy to your terminal.
 
-[![x-cmd/install — lfk Code Quality Monitoring Repo Card](https://repo.x-cmd.io/lfk.svg?lang=zh)](https://x-cmd.com/install/lfk)
+[![x-cmd/install — lfk Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/lfk.svg?lang=zh)](https://x-cmd.com/install/lfk)
 
 ## 安装
 
@@ -47,22 +47,22 @@ x install lfk
 
 ## 流行度
 
-- **Star**: 900 · **Fork**: 36 · **开放 issue**: 129 · **贡献者**: 19
+- **Star**: 901 · **Fork**: 36 · **开放 issue**: 129 · **贡献者**: 19
 
 ## 累计统计
 
-- **发布数**: 174 · **已合并 PR**: 654 · **开放 PR**: 2 · **已关闭 issue**: 123 · **开放 issue**: 6 · **提交数**: 1167
+- **发布数**: 174 · **已合并 PR**: 654 · **开放 PR**: 3 · **已关闭 issue**: 125 · **开放 issue**: 4 · **提交数**: 1167
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 14 | 115 | 1 | 14 | 5 | 97 |
-| last60d | 2026-07-24 | 26 | 223 | 1 | 20 | 5 | 210 |
-| 90d | 2026-06-24 | 45 | 291 | 1 | 26 | 5 | 288 |
-| last180d | 2026-03-26 | 100 | 654 | 2 | 123 | 6 | 983 |
-| 360d | 2025-09-27 | 100 | 654 | 2 | 123 | 6 | 1140 |
-| last720d | 2024-10-02 | 100 | 654 | 2 | 123 | 6 | 1167 |
+| 30d | 2026-08-24 | 14 | 108 | 2 | 12 | 3 | 97 |
+| last60d | 2026-07-25 | 26 | 223 | 2 | 22 | 3 | 210 |
+| 90d | 2026-06-25 | 44 | 289 | 2 | 28 | 3 | 288 |
+| last180d | 2026-03-27 | 100 | 654 | 3 | 125 | 4 | 983 |
+| 360d | 2025-09-28 | 100 | 654 | 3 | 125 | 4 | 1140 |
+| last720d | 2024-10-03 | 100 | 654 | 3 | 125 | 4 | 1167 |
 
 ## Release 资产
 
@@ -96,4 +96,4 @@ lfk 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T05:38:29Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T05:39:36Z._

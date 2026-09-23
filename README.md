@@ -4,7 +4,7 @@
 
 ⚡ LFK is a lightning-fast, keyboard-focused, yazi-inspired terminal user interface for navigating and managing Kubernetes clusters. Built for speed and efficiency, it brings a three-column Miller columns layout with an owner-based resource hierarchy to your terminal.
 
-[![x-cmd/install — lfk Code Quality Monitoring Repo Card](https://repo.x-cmd.io/lfk.svg)](https://x-cmd.com/install/lfk)
+[![x-cmd/install — lfk Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/lfk.svg)](https://x-cmd.com/install/lfk)
 
 ## Install
 
@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 900 · **Forks**: 36 · **Open issues**: 129 · **Contributors**: 19
+- **Stars**: 901 · **Forks**: 36 · **Open issues**: 129 · **Contributors**: 19
 
 ## Totals (cumulative)
 
-- **Releases**: 174 · **Merged PRs**: 654 · **Open PRs**: 2 · **Closed issues**: 123 · **Open issues**: 6 · **Commits**: 1167
+- **Releases**: 174 · **Merged PRs**: 654 · **Open PRs**: 3 · **Closed issues**: 125 · **Open issues**: 4 · **Commits**: 1167
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 14 | 115 | 1 | 14 | 5 | 97 |
-| last60d | 2026-07-24 | 26 | 223 | 1 | 20 | 5 | 210 |
-| 90d | 2026-06-24 | 45 | 291 | 1 | 26 | 5 | 288 |
-| last180d | 2026-03-26 | 100 | 654 | 2 | 123 | 6 | 983 |
-| 360d | 2025-09-27 | 100 | 654 | 2 | 123 | 6 | 1140 |
-| last720d | 2024-10-02 | 100 | 654 | 2 | 123 | 6 | 1167 |
+| 30d | 2026-08-24 | 14 | 108 | 2 | 12 | 3 | 97 |
+| last60d | 2026-07-25 | 26 | 223 | 2 | 22 | 3 | 210 |
+| 90d | 2026-06-25 | 44 | 289 | 2 | 28 | 3 | 288 |
+| last180d | 2026-03-27 | 100 | 654 | 3 | 125 | 4 | 983 |
+| 360d | 2025-09-28 | 100 | 654 | 3 | 125 | 4 | 1140 |
+| last720d | 2024-10-03 | 100 | 654 | 3 | 125 | 4 | 1167 |
 
 ## Release assets
 
@@ -96,4 +96,4 @@ Install metadata for lfk lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T05:38:28Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T05:39:34Z._
