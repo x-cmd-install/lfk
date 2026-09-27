@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 906 · **Forks**: 37 · **Open issues**: 130 · **Contributors**: 19
+- **Stars**: 907 · **Forks**: 37 · **Open issues**: 131 · **Contributors**: 19
 
 ## Totals (cumulative)
 
-- **Releases**: 176 · **Merged PRs**: 660 · **Open PRs**: 1 · **Closed issues**: 126 · **Open issues**: 4 · **Commits**: 1173
+- **Releases**: 176 · **Merged PRs**: 660 · **Open PRs**: 1 · **Closed issues**: 126 · **Open issues**: 5 · **Commits**: 1173
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-27 | 14 | 103 | 0 | 11 | 3 | 103 |
-| last60d | 2026-07-28 | 27 | 217 | 0 | 22 | 3 | 216 |
-| 90d | 2026-06-28 | 44 | 295 | 0 | 29 | 3 | 294 |
-| last180d | 2026-03-30 | 100 | 660 | 1 | 126 | 4 | 989 |
-| 360d | 2025-10-01 | 100 | 660 | 1 | 126 | 4 | 1146 |
-| last720d | 2024-10-06 | 100 | 660 | 1 | 126 | 4 | 1173 |
+| 30d | 2026-08-28 | 14 | 98 | 0 | 10 | 4 | 85 |
+| last60d | 2026-07-29 | 27 | 217 | 0 | 22 | 4 | 210 |
+| 90d | 2026-06-29 | 44 | 292 | 0 | 29 | 4 | 289 |
+| last180d | 2026-03-31 | 100 | 660 | 1 | 126 | 5 | 905 |
+| 360d | 2025-10-02 | 100 | 660 | 1 | 126 | 5 | 1146 |
+| last720d | 2024-10-07 | 100 | 660 | 1 | 126 | 5 | 1173 |
 
 ## Release assets
 
@@ -96,4 +96,4 @@ Install metadata for lfk lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260926.yml` · 2026-09-26T05:24:36Z._
+_Snapshot: `data/card/260927.yml` · 2026-09-27T05:46:28Z._
