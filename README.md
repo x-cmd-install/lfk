@@ -20,7 +20,7 @@ Total: **289,105** lines of code across **1555** files in the top 5 languages.
 |----------|-----:|---------:|-------:|------:|
 | Go | 287,698 | 47,660 | 36,672 | 1549 |
 | Json | 1,095 | 0 | 0 | 2 |
-| Yaml | 125 | 633 | 56 | 2 |
+| Yaml | 125 | 640 | 56 | 2 |
 | Makefile | 106 | 9 | 15 | 1 |
 | Nix | 53 | 7 | 10 | 1 |
 
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.19.1` (2026-09-25)
-- **Last commit**: 2026-09-25
+- **Last commit**: 2026-09-27
 - **Assets in release**: 18
 
 ## Popularity
 
-- **Stars**: 907 · **Forks**: 37 · **Open issues**: 131 · **Contributors**: 19
+- **Stars**: 908 · **Forks**: 37 · **Open issues**: 131 · **Contributors**: 19
 
 ## Totals (cumulative)
 
-- **Releases**: 176 · **Merged PRs**: 660 · **Open PRs**: 1 · **Closed issues**: 126 · **Open issues**: 5 · **Commits**: 1173
+- **Releases**: 176 · **Merged PRs**: 661 · **Open PRs**: 1 · **Closed issues**: 129 · **Open issues**: 2 · **Commits**: 1174
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-28 | 14 | 98 | 0 | 10 | 4 | 85 |
-| last60d | 2026-07-29 | 27 | 217 | 0 | 22 | 4 | 210 |
-| 90d | 2026-06-29 | 44 | 292 | 0 | 29 | 4 | 289 |
-| last180d | 2026-03-31 | 100 | 660 | 1 | 126 | 5 | 905 |
-| 360d | 2025-10-02 | 100 | 660 | 1 | 126 | 5 | 1146 |
-| last720d | 2024-10-07 | 100 | 660 | 1 | 126 | 5 | 1173 |
+| 30d | 2026-08-29 | 13 | 98 | 0 | 13 | 1 | 86 |
+| last60d | 2026-07-30 | 27 | 218 | 0 | 25 | 1 | 211 |
+| 90d | 2026-06-30 | 44 | 293 | 0 | 32 | 1 | 290 |
+| last180d | 2026-04-01 | 100 | 661 | 1 | 129 | 2 | 906 |
+| 360d | 2025-10-03 | 100 | 661 | 1 | 129 | 2 | 1147 |
+| last720d | 2024-10-08 | 100 | 661 | 1 | 129 | 2 | 1174 |
 
 ## Release assets
 
@@ -96,4 +96,4 @@ Install metadata for lfk lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260927.yml` · 2026-09-27T05:46:28Z._
+_Snapshot: `data/card/260928.yml` · 2026-09-28T05:57:13Z._
