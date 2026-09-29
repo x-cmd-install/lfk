@@ -30,7 +30,7 @@ x install lfk
 
 评分最低的几项:
 
-- **Code-Review** (0/10) — Found 1/23 approved changesets -- score normalized to 0
+- **Code-Review** (0/10) — Found 1/22 approved changesets -- score normalized to 0
 - **Branch-Protection** (4/10) — branch protection is not maximal on development and all release branches
 - **Contributors** (3/10) — project has 1 contributing companies or organizations -- score normalized to 3
 
@@ -42,27 +42,27 @@ x install lfk
 ## 发布
 
 - **最新版本**: `v0.19.1` (2026-09-25)
-- **最近提交**: 2026-09-27
+- **最近提交**: 2026-09-28
 - **Release 含资产**: 18 个
 
 ## 流行度
 
-- **Star**: 908 · **Fork**: 37 · **开放 issue**: 131 · **贡献者**: 19
+- **Star**: 909 · **Fork**: 37 · **开放 issue**: 131 · **贡献者**: 19
 
 ## 累计统计
 
-- **发布数**: 176 · **已合并 PR**: 661 · **开放 PR**: 1 · **已关闭 issue**: 129 · **开放 issue**: 2 · **提交数**: 1174
+- **发布数**: 176 · **已合并 PR**: 665 · **开放 PR**: 1 · **已关闭 issue**: 129 · **开放 issue**: 2 · **提交数**: 1178
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-29 | 13 | 98 | 0 | 13 | 1 | 86 |
-| last60d | 2026-07-30 | 27 | 218 | 0 | 25 | 1 | 211 |
-| 90d | 2026-06-30 | 44 | 293 | 0 | 32 | 1 | 290 |
-| last180d | 2026-04-01 | 100 | 661 | 1 | 129 | 2 | 906 |
-| 360d | 2025-10-03 | 100 | 661 | 1 | 129 | 2 | 1147 |
-| last720d | 2024-10-08 | 100 | 661 | 1 | 129 | 2 | 1174 |
+| 30d | 2026-08-30 | 12 | 102 | 0 | 13 | 1 | 90 |
+| last60d | 2026-07-31 | 27 | 220 | 0 | 25 | 1 | 215 |
+| 90d | 2026-07-01 | 44 | 297 | 0 | 31 | 1 | 294 |
+| last180d | 2026-04-02 | 100 | 665 | 1 | 129 | 2 | 910 |
+| 360d | 2025-10-04 | 100 | 665 | 1 | 129 | 2 | 1151 |
+| last720d | 2024-10-09 | 100 | 665 | 1 | 129 | 2 | 1178 |
 
 ## Release 资产
 
@@ -96,4 +96,4 @@ lfk 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260928.yml` · 2026-09-28T05:57:14Z._
+_数据快照: `data/card/260929.yml` · 2026-09-29T06:14:52Z._
