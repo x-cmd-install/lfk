@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 1572,
       "digest": "sha256:98e4436dc67a6adfa9d11c9b78b6fbf9be6616fd666a35f19fbb4f112aa97deb",
-      "download_count": 2,
+      "download_count": 31,
       "created_at": "2026-09-25T12:21:35Z",
       "updated_at": "2026-09-25T12:21:35Z",
       "browser_download_url": "https://github.com/janosmiko/lfk/releases/download/v0.19.1/checksums.txt"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 19919305,
       "digest": "sha256:ea4aa71699a5da4c70e9ebba51bf07ed6176e5a047375ae611f6ad162b07c96c",
-      "download_count": 144,
+      "download_count": 169,
       "created_at": "2026-09-25T12:21:32Z",
       "updated_at": "2026-09-25T12:21:33Z",
       "browser_download_url": "https://github.com/janosmiko/lfk/releases/download/v0.19.1/lfk_0.19.1_darwin_arm64.zip"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 21044812,
       "digest": "sha256:6103286386ba95763c920e763b3e4a729007feae1c49e97cc904e77f794a329b",
-      "download_count": 1,
+      "download_count": 34,
       "created_at": "2026-09-25T12:21:33Z",
       "updated_at": "2026-09-25T12:21:34Z",
       "browser_download_url": "https://github.com/janosmiko/lfk/releases/download/v0.19.1/lfk_0.19.1_linux_amd64.deb"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 21053681,
       "digest": "sha256:3cd41675e1cc0c1c1a01ac187790c4e3c6861e13496fb1de8179836f7ef31fc4",
-      "download_count": 76,
+      "download_count": 89,
       "created_at": "2026-09-25T12:21:30Z",
       "updated_at": "2026-09-25T12:21:31Z",
       "browser_download_url": "https://github.com/janosmiko/lfk/releases/download/v0.19.1/lfk_0.19.1_linux_amd64.tar.gz"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 18881050,
       "digest": "sha256:c6b0714867a557874e5c25e31a92266b9ec4a24c3284426dfc26a1ebcbcf9eee",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-09-25T12:21:30Z",
       "updated_at": "2026-09-25T12:21:31Z",
       "browser_download_url": "https://github.com/janosmiko/lfk/releases/download/v0.19.1/lfk_0.19.1_linux_arm64.tar.gz"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 21745973,
       "digest": "sha256:0e236f2801ba644bb788dddcd84cf9ca6c962d7abf37c94e93887c418dcd991f",
-      "download_count": 63,
+      "download_count": 74,
       "created_at": "2026-09-25T12:21:32Z",
       "updated_at": "2026-09-25T12:21:33Z",
       "browser_download_url": "https://github.com/janosmiko/lfk/releases/download/v0.19.1/lfk_0.19.1_windows_amd64.zip"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 19041080,
       "digest": "sha256:ff98431a15d120bc9a8b265d4a0cc91e15a3b29452e4ecbfbca7455ca081a64a",
-      "download_count": 18,
+      "download_count": 20,
       "created_at": "2026-09-25T12:21:30Z",
       "updated_at": "2026-09-25T12:21:31Z",
       "browser_download_url": "https://github.com/janosmiko/lfk/releases/download/v0.19.1/lfk_0.19.1_windows_arm64.zip"
@@ -687,5 +687,17 @@
   ],
   "tarball_url": "https://api.github.com/repos/janosmiko/lfk/tarball/v0.19.1",
   "zipball_url": "https://api.github.com/repos/janosmiko/lfk/zipball/v0.19.1",
-  "body": "## [0.19.1](https://github.com/janosmiko/lfk/compare/v0.19.0...v0.19.1) (2026-09-25)\n\n\n### Bug Fixes\n\n* drop cursor escapes and control bytes from log lines ([#818](https://github.com/janosmiko/lfk/issues/818)) ([e13cd4c](https://github.com/janosmiko/lfk/commit/e13cd4c70c845cad971b8df41ffa4a0fe46bb99d))"
+  "body": "## [0.19.1](https://github.com/janosmiko/lfk/compare/v0.19.0...v0.19.1) (2026-09-25)\n\n\n### Bug Fixes\n\n* drop cursor escapes and control bytes from log lines ([#818](https://github.com/janosmiko/lfk/issues/818)) ([e13cd4c](https://github.com/janosmiko/lfk/commit/e13cd4c70c845cad971b8df41ffa4a0fe46bb99d))",
+  "reactions": {
+    "url": "https://api.github.com/repos/janosmiko/lfk/releases/396569891/reactions",
+    "total_count": 1,
+    "+1": 1,
+    "-1": 0,
+    "laugh": 0,
+    "hooray": 0,
+    "confused": 0,
+    "heart": 0,
+    "rocket": 0,
+    "eyes": 0
+  }
 }
