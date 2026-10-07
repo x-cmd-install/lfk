@@ -41,7 +41,7 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v0.19.2` (2026-09-30)
+- **Latest**: `v0.19.3` (2026-10-06)
 - **Last commit**: 2026-10-06
 - **Assets in release**: 18
 
@@ -51,41 +51,41 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 177 · **Merged PRs**: 674 · **Open PRs**: 2 · **Closed issues**: 129 · **Open issues**: 4 · **Commits**: 1187
+- **Releases**: 178 · **Merged PRs**: 675 · **Open PRs**: 1 · **Closed issues**: 129 · **Open issues**: 4 · **Commits**: 1188
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-06 | 10 | 98 | 1 | 11 | 3 | 66 |
-| last60d | 2026-08-07 | 25 | 220 | 1 | 23 | 3 | 189 |
-| 90d | 2026-07-08 | 43 | 281 | 1 | 31 | 3 | 268 |
-| last180d | 2026-04-09 | 100 | 667 | 2 | 126 | 4 | 887 |
-| 360d | 2025-10-11 | 100 | 674 | 2 | 129 | 4 | 1160 |
-| last720d | 2024-10-16 | 100 | 674 | 2 | 129 | 4 | 1187 |
+| 30d | 2026-09-07 | 11 | 96 | 0 | 11 | 3 | 67 |
+| last60d | 2026-08-08 | 26 | 221 | 0 | 23 | 3 | 190 |
+| 90d | 2026-07-09 | 43 | 276 | 0 | 31 | 3 | 269 |
+| last180d | 2026-04-10 | 100 | 668 | 1 | 126 | 4 | 888 |
+| 360d | 2025-10-12 | 100 | 675 | 1 | 129 | 4 | 1161 |
+| last720d | 2024-10-17 | 100 | 675 | 1 | 129 | 4 | 1188 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [checksums.txt](https://github.com/janosmiko/lfk/releases/download/v0.19.2/checksums.txt) | 1.5 KiB | `other` |
-| [checksums.txt.sigstore](https://github.com/janosmiko/lfk/releases/download/v0.19.2/checksums.txt.sigstore) | 10.0 KiB | `other` |
-| [lfk_0.19.2_darwin_amd64.zip](https://github.com/janosmiko/lfk/releases/download/v0.19.2/lfk_0.19.2_darwin_amd64.zip) | 20.5 MiB | `native/darwin/x64` |
-| [lfk_0.19.2_darwin_amd64.zip.sbom.json](https://github.com/janosmiko/lfk/releases/download/v0.19.2/lfk_0.19.2_darwin_amd64.zip.sbom.json) | 119.6 KiB | `native/darwin/x64` |
-| [lfk_0.19.2_darwin_arm64.zip](https://github.com/janosmiko/lfk/releases/download/v0.19.2/lfk_0.19.2_darwin_arm64.zip) | 19.0 MiB | `native/darwin/arm64` |
-| [lfk_0.19.2_darwin_arm64.zip.sbom.json](https://github.com/janosmiko/lfk/releases/download/v0.19.2/lfk_0.19.2_darwin_arm64.zip.sbom.json) | 119.6 KiB | `native/darwin/arm64` |
-| [lfk_0.19.2_linux_amd64.deb](https://github.com/janosmiko/lfk/releases/download/v0.19.2/lfk_0.19.2_linux_amd64.deb) | 20.1 MiB | `native/linux/x64` |
-| [lfk_0.19.2_linux_amd64.rpm](https://github.com/janosmiko/lfk/releases/download/v0.19.2/lfk_0.19.2_linux_amd64.rpm) | 20.1 MiB | `native/linux/x64` |
-| [lfk_0.19.2_linux_amd64.tar.gz](https://github.com/janosmiko/lfk/releases/download/v0.19.2/lfk_0.19.2_linux_amd64.tar.gz) | 20.1 MiB | `native/linux/x64` |
-| [lfk_0.19.2_linux_amd64.tar.gz.sbom.json](https://github.com/janosmiko/lfk/releases/download/v0.19.2/lfk_0.19.2_linux_amd64.tar.gz.sbom.json) | 119.8 KiB | `native/linux/x64` |
-| [lfk_0.19.2_linux_arm64.deb](https://github.com/janosmiko/lfk/releases/download/v0.19.2/lfk_0.19.2_linux_arm64.deb) | 18.0 MiB | `native/linux/arm64` |
-| [lfk_0.19.2_linux_arm64.rpm](https://github.com/janosmiko/lfk/releases/download/v0.19.2/lfk_0.19.2_linux_arm64.rpm) | 18.0 MiB | `native/linux/arm64` |
-| [lfk_0.19.2_linux_arm64.tar.gz](https://github.com/janosmiko/lfk/releases/download/v0.19.2/lfk_0.19.2_linux_arm64.tar.gz) | 18.0 MiB | `native/linux/arm64` |
-| [lfk_0.19.2_linux_arm64.tar.gz.sbom.json](https://github.com/janosmiko/lfk/releases/download/v0.19.2/lfk_0.19.2_linux_arm64.tar.gz.sbom.json) | 119.8 KiB | `native/linux/arm64` |
-| [lfk_0.19.2_windows_amd64.zip](https://github.com/janosmiko/lfk/releases/download/v0.19.2/lfk_0.19.2_windows_amd64.zip) | 20.8 MiB | `native/win/x64` |
-| [lfk_0.19.2_windows_amd64.zip.sbom.json](https://github.com/janosmiko/lfk/releases/download/v0.19.2/lfk_0.19.2_windows_amd64.zip.sbom.json) | 121.2 KiB | `native/win/x64` |
-| [lfk_0.19.2_windows_arm64.zip](https://github.com/janosmiko/lfk/releases/download/v0.19.2/lfk_0.19.2_windows_arm64.zip) | 18.2 MiB | `native/win/arm64` |
-| [lfk_0.19.2_windows_arm64.zip.sbom.json](https://github.com/janosmiko/lfk/releases/download/v0.19.2/lfk_0.19.2_windows_arm64.zip.sbom.json) | 121.2 KiB | `native/win/arm64` |
+| [checksums.txt](https://github.com/janosmiko/lfk/releases/download/v0.19.3/checksums.txt) | 1.5 KiB | `other` |
+| [checksums.txt.sigstore](https://github.com/janosmiko/lfk/releases/download/v0.19.3/checksums.txt.sigstore) | 9.9 KiB | `other` |
+| [lfk_0.19.3_darwin_amd64.zip](https://github.com/janosmiko/lfk/releases/download/v0.19.3/lfk_0.19.3_darwin_amd64.zip) | 20.5 MiB | `native/darwin/x64` |
+| [lfk_0.19.3_darwin_amd64.zip.sbom.json](https://github.com/janosmiko/lfk/releases/download/v0.19.3/lfk_0.19.3_darwin_amd64.zip.sbom.json) | 119.6 KiB | `native/darwin/x64` |
+| [lfk_0.19.3_darwin_arm64.zip](https://github.com/janosmiko/lfk/releases/download/v0.19.3/lfk_0.19.3_darwin_arm64.zip) | 19.0 MiB | `native/darwin/arm64` |
+| [lfk_0.19.3_darwin_arm64.zip.sbom.json](https://github.com/janosmiko/lfk/releases/download/v0.19.3/lfk_0.19.3_darwin_arm64.zip.sbom.json) | 119.6 KiB | `native/darwin/arm64` |
+| [lfk_0.19.3_linux_amd64.deb](https://github.com/janosmiko/lfk/releases/download/v0.19.3/lfk_0.19.3_linux_amd64.deb) | 20.1 MiB | `native/linux/x64` |
+| [lfk_0.19.3_linux_amd64.rpm](https://github.com/janosmiko/lfk/releases/download/v0.19.3/lfk_0.19.3_linux_amd64.rpm) | 20.1 MiB | `native/linux/x64` |
+| [lfk_0.19.3_linux_amd64.tar.gz](https://github.com/janosmiko/lfk/releases/download/v0.19.3/lfk_0.19.3_linux_amd64.tar.gz) | 20.1 MiB | `native/linux/x64` |
+| [lfk_0.19.3_linux_amd64.tar.gz.sbom.json](https://github.com/janosmiko/lfk/releases/download/v0.19.3/lfk_0.19.3_linux_amd64.tar.gz.sbom.json) | 119.8 KiB | `native/linux/x64` |
+| [lfk_0.19.3_linux_arm64.deb](https://github.com/janosmiko/lfk/releases/download/v0.19.3/lfk_0.19.3_linux_arm64.deb) | 18.0 MiB | `native/linux/arm64` |
+| [lfk_0.19.3_linux_arm64.rpm](https://github.com/janosmiko/lfk/releases/download/v0.19.3/lfk_0.19.3_linux_arm64.rpm) | 18.0 MiB | `native/linux/arm64` |
+| [lfk_0.19.3_linux_arm64.tar.gz](https://github.com/janosmiko/lfk/releases/download/v0.19.3/lfk_0.19.3_linux_arm64.tar.gz) | 18.0 MiB | `native/linux/arm64` |
+| [lfk_0.19.3_linux_arm64.tar.gz.sbom.json](https://github.com/janosmiko/lfk/releases/download/v0.19.3/lfk_0.19.3_linux_arm64.tar.gz.sbom.json) | 119.8 KiB | `native/linux/arm64` |
+| [lfk_0.19.3_windows_amd64.zip](https://github.com/janosmiko/lfk/releases/download/v0.19.3/lfk_0.19.3_windows_amd64.zip) | 20.8 MiB | `native/win/x64` |
+| [lfk_0.19.3_windows_amd64.zip.sbom.json](https://github.com/janosmiko/lfk/releases/download/v0.19.3/lfk_0.19.3_windows_amd64.zip.sbom.json) | 121.2 KiB | `native/win/x64` |
+| [lfk_0.19.3_windows_arm64.zip](https://github.com/janosmiko/lfk/releases/download/v0.19.3/lfk_0.19.3_windows_arm64.zip) | 18.2 MiB | `native/win/arm64` |
+| [lfk_0.19.3_windows_arm64.zip.sbom.json](https://github.com/janosmiko/lfk/releases/download/v0.19.3/lfk_0.19.3_windows_arm64.zip.sbom.json) | 121.2 KiB | `native/win/arm64` |
 
 ## Improve this data
 
@@ -96,4 +96,4 @@ Install metadata for lfk lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261006.yml` · 2026-10-06T06:54:34Z._
+_Snapshot: `data/card/261007.yml` · 2026-10-07T06:25:38Z._
