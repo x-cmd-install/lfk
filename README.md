@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 914 · **Forks**: 36 · **Open issues**: 133 · **Contributors**: 19
+- **Stars**: 915 · **Forks**: 36 · **Open issues**: 133 · **Contributors**: 19
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-09 | 10 | 78 | 0 | 10 | 3 | 67 |
-| last60d | 2026-08-10 | 26 | 204 | 0 | 23 | 3 | 190 |
-| 90d | 2026-07-11 | 38 | 270 | 0 | 29 | 3 | 269 |
-| last180d | 2026-04-12 | 100 | 668 | 1 | 126 | 4 | 888 |
-| 360d | 2025-10-14 | 100 | 675 | 1 | 129 | 4 | 1161 |
-| last720d | 2024-10-19 | 100 | 675 | 1 | 129 | 4 | 1188 |
+| 30d | 2026-09-10 | 9 | 67 | 0 | 8 | 3 | 67 |
+| last60d | 2026-08-11 | 26 | 189 | 0 | 22 | 3 | 190 |
+| 90d | 2026-07-12 | 38 | 270 | 0 | 29 | 3 | 269 |
+| last180d | 2026-04-13 | 100 | 664 | 1 | 125 | 4 | 888 |
+| 360d | 2025-10-15 | 100 | 675 | 1 | 129 | 4 | 1161 |
+| last720d | 2024-10-20 | 100 | 675 | 1 | 129 | 4 | 1188 |
 
 ## Release assets
 
@@ -96,4 +96,4 @@ Install metadata for lfk lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261009.yml` · 2026-10-09T06:36:51Z._
+_Snapshot: `data/card/261010.yml` · 2026-10-10T06:23:13Z._
