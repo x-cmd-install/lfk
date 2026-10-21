@@ -14,11 +14,11 @@ x install lfk
 
 ## 代码洞察
 
-合计: **293,349** 行代码（覆盖前 5 种语言、共 **1578** 个文件）。
+合计: **294,436** 行代码（覆盖前 5 种语言、共 **1584** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Go | 291,933 | 47,856 | 37,199 | 1572 |
+| Go | 293,020 | 47,911 | 37,375 | 1578 |
 | Json | 1,104 | 0 | 0 | 2 |
 | Yaml | 125 | 647 | 56 | 2 |
 | Makefile | 106 | 9 | 15 | 1 |
@@ -30,7 +30,7 @@ x install lfk
 
 评分最低的几项:
 
-- **Code-Review** (0/10) — Found 0/21 approved changesets -- score normalized to 0
+- **Code-Review** (0/10) — Found 0/22 approved changesets -- score normalized to 0
 - **Branch-Protection** (4/10) — branch protection is not maximal on development and all release branches
 - **Contributors** (3/10) — project has 1 contributing companies or organizations -- score normalized to 3
 
@@ -41,51 +41,51 @@ x install lfk
 
 ## 发布
 
-- **最新版本**: `v0.19.8` (2026-10-18)
-- **最近提交**: 2026-10-20
+- **最新版本**: `v0.19.10` (2026-10-20)
+- **最近提交**: 2026-10-21
 - **Release 含资产**: 18 个
 
 ## 流行度
 
-- **Star**: 918 · **Fork**: 37 · **开放 issue**: 140 · **贡献者**: 19
+- **Star**: 918 · **Fork**: 37 · **开放 issue**: 141 · **贡献者**: 19
 
 ## 累计统计
 
-- **发布数**: 183 · **已合并 PR**: 700 · **开放 PR**: 3 · **已关闭 issue**: 133 · **开放 issue**: 7 · **提交数**: 1213
+- **发布数**: 185 · **已合并 PR**: 705 · **开放 PR**: 3 · **已关闭 issue**: 136 · **开放 issue**: 5 · **提交数**: 1218
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-20 | 9 | 50 | 2 | 7 | 5 | 42 |
-| last60d | 2026-08-21 | 25 | 168 | 2 | 24 | 6 | 150 |
-| 90d | 2026-07-22 | 36 | 271 | 2 | 30 | 6 | 268 |
-| last180d | 2026-04-23 | 100 | 682 | 3 | 117 | 7 | 766 |
-| 360d | 2025-10-25 | 100 | 700 | 3 | 133 | 7 | 1186 |
-| last720d | 2024-10-30 | 100 | 700 | 3 | 133 | 7 | 1213 |
+| 30d | 2026-09-21 | 11 | 50 | 2 | 9 | 3 | 47 |
+| last60d | 2026-08-22 | 26 | 166 | 2 | 27 | 4 | 155 |
+| 90d | 2026-07-23 | 38 | 274 | 2 | 33 | 4 | 273 |
+| last180d | 2026-04-24 | 100 | 687 | 3 | 118 | 5 | 771 |
+| 360d | 2025-10-26 | 100 | 705 | 3 | 136 | 5 | 1191 |
+| last720d | 2024-10-31 | 100 | 705 | 3 | 136 | 5 | 1218 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [checksums.txt](https://github.com/janosmiko/lfk/releases/download/v0.19.8/checksums.txt) | 1.5 KiB | `other` |
-| [checksums.txt.sigstore](https://github.com/janosmiko/lfk/releases/download/v0.19.8/checksums.txt.sigstore) | 9.8 KiB | `other` |
-| [lfk_0.19.8_darwin_amd64.zip](https://github.com/janosmiko/lfk/releases/download/v0.19.8/lfk_0.19.8_darwin_amd64.zip) | 20.6 MiB | `native/darwin/x64` |
-| [lfk_0.19.8_darwin_amd64.zip.sbom.json](https://github.com/janosmiko/lfk/releases/download/v0.19.8/lfk_0.19.8_darwin_amd64.zip.sbom.json) | 119.5 KiB | `native/darwin/x64` |
-| [lfk_0.19.8_darwin_arm64.zip](https://github.com/janosmiko/lfk/releases/download/v0.19.8/lfk_0.19.8_darwin_arm64.zip) | 19.1 MiB | `native/darwin/arm64` |
-| [lfk_0.19.8_darwin_arm64.zip.sbom.json](https://github.com/janosmiko/lfk/releases/download/v0.19.8/lfk_0.19.8_darwin_arm64.zip.sbom.json) | 119.5 KiB | `native/darwin/arm64` |
-| [lfk_0.19.8_linux_amd64.deb](https://github.com/janosmiko/lfk/releases/download/v0.19.8/lfk_0.19.8_linux_amd64.deb) | 20.2 MiB | `native/linux/x64` |
-| [lfk_0.19.8_linux_amd64.rpm](https://github.com/janosmiko/lfk/releases/download/v0.19.8/lfk_0.19.8_linux_amd64.rpm) | 20.2 MiB | `native/linux/x64` |
-| [lfk_0.19.8_linux_amd64.tar.gz](https://github.com/janosmiko/lfk/releases/download/v0.19.8/lfk_0.19.8_linux_amd64.tar.gz) | 20.2 MiB | `native/linux/x64` |
-| [lfk_0.19.8_linux_amd64.tar.gz.sbom.json](https://github.com/janosmiko/lfk/releases/download/v0.19.8/lfk_0.19.8_linux_amd64.tar.gz.sbom.json) | 119.7 KiB | `native/linux/x64` |
-| [lfk_0.19.8_linux_arm64.deb](https://github.com/janosmiko/lfk/releases/download/v0.19.8/lfk_0.19.8_linux_arm64.deb) | 18.1 MiB | `native/linux/arm64` |
-| [lfk_0.19.8_linux_arm64.rpm](https://github.com/janosmiko/lfk/releases/download/v0.19.8/lfk_0.19.8_linux_arm64.rpm) | 18.1 MiB | `native/linux/arm64` |
-| [lfk_0.19.8_linux_arm64.tar.gz](https://github.com/janosmiko/lfk/releases/download/v0.19.8/lfk_0.19.8_linux_arm64.tar.gz) | 18.1 MiB | `native/linux/arm64` |
-| [lfk_0.19.8_linux_arm64.tar.gz.sbom.json](https://github.com/janosmiko/lfk/releases/download/v0.19.8/lfk_0.19.8_linux_arm64.tar.gz.sbom.json) | 119.7 KiB | `native/linux/arm64` |
-| [lfk_0.19.8_windows_amd64.zip](https://github.com/janosmiko/lfk/releases/download/v0.19.8/lfk_0.19.8_windows_amd64.zip) | 20.8 MiB | `native/win/x64` |
-| [lfk_0.19.8_windows_amd64.zip.sbom.json](https://github.com/janosmiko/lfk/releases/download/v0.19.8/lfk_0.19.8_windows_amd64.zip.sbom.json) | 121.1 KiB | `native/win/x64` |
-| [lfk_0.19.8_windows_arm64.zip](https://github.com/janosmiko/lfk/releases/download/v0.19.8/lfk_0.19.8_windows_arm64.zip) | 18.2 MiB | `native/win/arm64` |
-| [lfk_0.19.8_windows_arm64.zip.sbom.json](https://github.com/janosmiko/lfk/releases/download/v0.19.8/lfk_0.19.8_windows_arm64.zip.sbom.json) | 121.1 KiB | `native/win/arm64` |
+| [checksums.txt](https://github.com/janosmiko/lfk/releases/download/v0.19.10/checksums.txt) | 1.6 KiB | `other` |
+| [checksums.txt.sigstore](https://github.com/janosmiko/lfk/releases/download/v0.19.10/checksums.txt.sigstore) | 10.2 KiB | `other` |
+| [lfk_0.19.10_darwin_amd64.zip](https://github.com/janosmiko/lfk/releases/download/v0.19.10/lfk_0.19.10_darwin_amd64.zip) | 20.6 MiB | `native/darwin/x64` |
+| [lfk_0.19.10_darwin_amd64.zip.sbom.json](https://github.com/janosmiko/lfk/releases/download/v0.19.10/lfk_0.19.10_darwin_amd64.zip.sbom.json) | 119.6 KiB | `native/darwin/x64` |
+| [lfk_0.19.10_darwin_arm64.zip](https://github.com/janosmiko/lfk/releases/download/v0.19.10/lfk_0.19.10_darwin_arm64.zip) | 19.1 MiB | `native/darwin/arm64` |
+| [lfk_0.19.10_darwin_arm64.zip.sbom.json](https://github.com/janosmiko/lfk/releases/download/v0.19.10/lfk_0.19.10_darwin_arm64.zip.sbom.json) | 119.6 KiB | `native/darwin/arm64` |
+| [lfk_0.19.10_linux_amd64.deb](https://github.com/janosmiko/lfk/releases/download/v0.19.10/lfk_0.19.10_linux_amd64.deb) | 20.2 MiB | `native/linux/x64` |
+| [lfk_0.19.10_linux_amd64.rpm](https://github.com/janosmiko/lfk/releases/download/v0.19.10/lfk_0.19.10_linux_amd64.rpm) | 20.2 MiB | `native/linux/x64` |
+| [lfk_0.19.10_linux_amd64.tar.gz](https://github.com/janosmiko/lfk/releases/download/v0.19.10/lfk_0.19.10_linux_amd64.tar.gz) | 20.2 MiB | `native/linux/x64` |
+| [lfk_0.19.10_linux_amd64.tar.gz.sbom.json](https://github.com/janosmiko/lfk/releases/download/v0.19.10/lfk_0.19.10_linux_amd64.tar.gz.sbom.json) | 119.8 KiB | `native/linux/x64` |
+| [lfk_0.19.10_linux_arm64.deb](https://github.com/janosmiko/lfk/releases/download/v0.19.10/lfk_0.19.10_linux_arm64.deb) | 18.1 MiB | `native/linux/arm64` |
+| [lfk_0.19.10_linux_arm64.rpm](https://github.com/janosmiko/lfk/releases/download/v0.19.10/lfk_0.19.10_linux_arm64.rpm) | 18.1 MiB | `native/linux/arm64` |
+| [lfk_0.19.10_linux_arm64.tar.gz](https://github.com/janosmiko/lfk/releases/download/v0.19.10/lfk_0.19.10_linux_arm64.tar.gz) | 18.1 MiB | `native/linux/arm64` |
+| [lfk_0.19.10_linux_arm64.tar.gz.sbom.json](https://github.com/janosmiko/lfk/releases/download/v0.19.10/lfk_0.19.10_linux_arm64.tar.gz.sbom.json) | 119.8 KiB | `native/linux/arm64` |
+| [lfk_0.19.10_windows_amd64.zip](https://github.com/janosmiko/lfk/releases/download/v0.19.10/lfk_0.19.10_windows_amd64.zip) | 20.9 MiB | `native/win/x64` |
+| [lfk_0.19.10_windows_amd64.zip.sbom.json](https://github.com/janosmiko/lfk/releases/download/v0.19.10/lfk_0.19.10_windows_amd64.zip.sbom.json) | 121.2 KiB | `native/win/x64` |
+| [lfk_0.19.10_windows_arm64.zip](https://github.com/janosmiko/lfk/releases/download/v0.19.10/lfk_0.19.10_windows_arm64.zip) | 18.3 MiB | `native/win/arm64` |
+| [lfk_0.19.10_windows_arm64.zip.sbom.json](https://github.com/janosmiko/lfk/releases/download/v0.19.10/lfk_0.19.10_windows_arm64.zip.sbom.json) | 121.2 KiB | `native/win/arm64` |
 
 ## 改进这些数据
 
@@ -96,4 +96,4 @@ lfk 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261020.yml` · 2026-10-20T05:20:24Z._
+_数据快照: `data/card/261021.yml` · 2026-10-21T05:20:53Z._
