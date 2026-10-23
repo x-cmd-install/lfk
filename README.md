@@ -14,11 +14,11 @@ x install lfk
 
 ## Code insight
 
-Total: **295,379** lines of code across **1590** files in the top 5 languages.
+Total: **295,793** lines of code across **1592** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 293,958 | 47,932 | 37,548 | 1584 |
+| Go | 294,372 | 47,941 | 37,595 | 1586 |
 | Json | 1,109 | 0 | 0 | 2 |
 | Yaml | 125 | 648 | 56 | 2 |
 | Makefile | 106 | 9 | 15 | 1 |
@@ -42,7 +42,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.19.12` (2026-10-21)
-- **Last commit**: 2026-10-21
+- **Last commit**: 2026-10-22
 - **Assets in release**: 18
 
 ## Popularity
@@ -51,18 +51,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 187 · **Merged PRs**: 710 · **Open PRs**: 1 · **Closed issues**: 137 · **Open issues**: 4 · **Commits**: 1223
+- **Releases**: 187 · **Merged PRs**: 711 · **Open PRs**: 2 · **Closed issues**: 137 · **Open issues**: 4 · **Commits**: 1224
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 13 | 55 | 0 | 10 | 2 | 52 |
-| last60d | 2026-08-23 | 27 | 171 | 0 | 28 | 3 | 160 |
-| 90d | 2026-07-24 | 39 | 279 | 0 | 34 | 3 | 278 |
-| last180d | 2026-04-25 | 100 | 692 | 1 | 112 | 4 | 776 |
-| 360d | 2025-10-27 | 100 | 710 | 1 | 137 | 4 | 1196 |
-| last720d | 2024-11-01 | 100 | 710 | 1 | 137 | 4 | 1223 |
+| 30d | 2026-09-23 | 13 | 53 | 1 | 10 | 2 | 53 |
+| last60d | 2026-08-24 | 27 | 165 | 1 | 24 | 3 | 161 |
+| 90d | 2026-07-25 | 39 | 280 | 1 | 34 | 3 | 279 |
+| last180d | 2026-04-26 | 100 | 687 | 2 | 105 | 4 | 777 |
+| 360d | 2025-10-28 | 100 | 711 | 2 | 137 | 4 | 1197 |
+| last720d | 2024-11-02 | 100 | 711 | 2 | 137 | 4 | 1224 |
 
 ## Release assets
 
@@ -87,6 +87,15 @@ Lowest-scoring checks:
 | [lfk_0.19.12_windows_arm64.zip](https://github.com/janosmiko/lfk/releases/download/v0.19.12/lfk_0.19.12_windows_arm64.zip) | 18.3 MiB | `native/win/arm64` |
 | [lfk_0.19.12_windows_arm64.zip.sbom.json](https://github.com/janosmiko/lfk/releases/download/v0.19.12/lfk_0.19.12_windows_arm64.zip.sbom.json) | 121.2 KiB | `native/win/arm64` |
 
+## Distribution status
+
+Reported by **6** distros on [repology.org](https://repology.org/project/lfk). **3** are ✅ on the latest upstream release, **3** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Homebrew | `0.19.12` | ✅ latest |
+| Nix unstable | `0.14.19` | ⚠️ outdated |
+
 ## Improve this data
 
 Install metadata for lfk lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `lfk` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -96,4 +105,4 @@ Install metadata for lfk lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T05:22:12Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T05:19:11Z._
