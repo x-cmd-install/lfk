@@ -25,9 +25,9 @@
 - repo: chocolatey
   binname: lfk
   visiblename: LFK (Lightning Fast Kubernetes navigator)
-  version: 0.19.7
+  version: 0.19.12
   origversion: null
-  status: outdated
+  status: newest
   summary: Lightning Fast Kubernetes navigator
 - repo: homebrew
   srcname: lfk
