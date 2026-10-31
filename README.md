@@ -51,18 +51,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 187 · **Merged PRs**: 713 · **Open PRs**: 5 · **Closed issues**: 139 · **Open issues**: 4 · **Commits**: 1226
+- **Releases**: 187 · **Merged PRs**: 713 · **Open PRs**: 5 · **Closed issues**: 140 · **Open issues**: 3 · **Commits**: 1226
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-30 | 11 | 45 | 4 | 8 | 2 | 41 |
-| last60d | 2026-08-31 | 23 | 146 | 4 | 23 | 3 | 144 |
-| 90d | 2026-08-01 | 37 | 268 | 4 | 34 | 3 | 267 |
-| last180d | 2026-05-03 | 100 | 631 | 5 | 98 | 4 | 619 |
-| 360d | 2025-11-04 | 100 | 713 | 5 | 139 | 4 | 1199 |
-| last720d | 2024-11-09 | 100 | 713 | 5 | 139 | 4 | 1226 |
+| 30d | 2026-10-01 | 10 | 39 | 4 | 8 | 2 | 41 |
+| last60d | 2026-09-01 | 23 | 143 | 4 | 24 | 2 | 144 |
+| 90d | 2026-08-02 | 37 | 267 | 4 | 35 | 2 | 267 |
+| last180d | 2026-05-04 | 100 | 621 | 5 | 99 | 3 | 619 |
+| 360d | 2025-11-05 | 100 | 713 | 5 | 140 | 3 | 1199 |
+| last720d | 2024-11-10 | 100 | 713 | 5 | 140 | 3 | 1226 |
 
 ## Release assets
 
@@ -105,4 +105,4 @@ Install metadata for lfk lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261030.yml` · 2026-10-30T06:17:13Z._
+_Snapshot: `data/card/261031.yml` · 2026-10-31T06:12:08Z._
