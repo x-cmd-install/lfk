@@ -30,7 +30,7 @@ x install lfk
 
 评分最低的几项:
 
-- **Code-Review** (1/10) — Found 3/23 approved changesets -- score normalized to 1
+- **Code-Review** (1/10) — Found 3/18 approved changesets -- score normalized to 1
 - **Branch-Protection** (4/10) — branch protection is not maximal on development and all release branches
 - **Contributors** (3/10) — project has 1 contributing companies or organizations -- score normalized to 3
 
@@ -51,18 +51,18 @@ x install lfk
 
 ## 累计统计
 
-- **发布数**: 190 · **已合并 PR**: 734 · **开放 PR**: 1 · **已关闭 issue**: 143 · **开放 issue**: 3 · **提交数**: 1247
+- **发布数**: 190 · **已合并 PR**: 739 · **开放 PR**: 2 · **已关闭 issue**: 143 · **开放 issue**: 3 · **提交数**: 1252
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-10 | 12 | 59 | 0 | 11 | 2 | 50 |
-| last60d | 2026-09-10 | 21 | 126 | 0 | 22 | 2 | 96 |
-| 90d | 2026-08-11 | 38 | 248 | 0 | 36 | 2 | 237 |
-| last180d | 2026-05-13 | 100 | 568 | 1 | 90 | 2 | 556 |
-| 360d | 2025-11-14 | 100 | 734 | 1 | 143 | 3 | 1220 |
-| last720d | 2024-11-19 | 100 | 734 | 1 | 143 | 3 | 1247 |
+| 30d | 2026-10-11 | 12 | 64 | 1 | 11 | 2 | 55 |
+| last60d | 2026-09-11 | 20 | 126 | 1 | 22 | 2 | 101 |
+| 90d | 2026-08-12 | 38 | 248 | 1 | 36 | 2 | 242 |
+| last180d | 2026-05-14 | 100 | 566 | 2 | 90 | 2 | 561 |
+| 360d | 2025-11-15 | 100 | 739 | 2 | 143 | 3 | 1225 |
+| last720d | 2024-11-20 | 100 | 739 | 2 | 143 | 3 | 1252 |
 
 ## Release 资产
 
@@ -105,4 +105,4 @@ lfk 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261109.yml` · 2026-11-09T07:00:02Z._
+_数据快照: `data/card/261110.yml` · 2026-11-10T07:53:02Z._

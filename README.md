@@ -30,7 +30,7 @@ Overall score: **8.5 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (1/10) — Found 3/23 approved changesets -- score normalized to 1
+- **Code-Review** (1/10) — Found 3/18 approved changesets -- score normalized to 1
 - **Branch-Protection** (4/10) — branch protection is not maximal on development and all release branches
 - **Contributors** (3/10) — project has 1 contributing companies or organizations -- score normalized to 3
 
@@ -51,18 +51,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 190 · **Merged PRs**: 734 · **Open PRs**: 1 · **Closed issues**: 143 · **Open issues**: 3 · **Commits**: 1247
+- **Releases**: 190 · **Merged PRs**: 739 · **Open PRs**: 2 · **Closed issues**: 143 · **Open issues**: 3 · **Commits**: 1252
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-10 | 12 | 59 | 0 | 11 | 2 | 50 |
-| last60d | 2026-09-10 | 21 | 126 | 0 | 22 | 2 | 96 |
-| 90d | 2026-08-11 | 38 | 248 | 0 | 36 | 2 | 237 |
-| last180d | 2026-05-13 | 100 | 568 | 1 | 90 | 2 | 556 |
-| 360d | 2025-11-14 | 100 | 734 | 1 | 143 | 3 | 1220 |
-| last720d | 2024-11-19 | 100 | 734 | 1 | 143 | 3 | 1247 |
+| 30d | 2026-10-11 | 12 | 64 | 1 | 11 | 2 | 55 |
+| last60d | 2026-09-11 | 20 | 126 | 1 | 22 | 2 | 101 |
+| 90d | 2026-08-12 | 38 | 248 | 1 | 36 | 2 | 242 |
+| last180d | 2026-05-14 | 100 | 566 | 2 | 90 | 2 | 561 |
+| 360d | 2025-11-15 | 100 | 739 | 2 | 143 | 3 | 1225 |
+| last720d | 2024-11-20 | 100 | 739 | 2 | 143 | 3 | 1252 |
 
 ## Release assets
 
@@ -105,4 +105,4 @@ Install metadata for lfk lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261109.yml` · 2026-11-09T07:00:01Z._
+_Snapshot: `data/card/261110.yml` · 2026-11-10T07:53:01Z._
