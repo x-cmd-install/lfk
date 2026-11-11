@@ -41,55 +41,55 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v0.19.15` (2026-11-05)
+- **Latest**: `v0.19.16` (2026-11-10)
 - **Last commit**: 2026-11-09
 - **Assets in release**: 18
 
 ## Popularity
 
-- **Stars**: 927 · **Forks**: 40 · **Open issues**: 146 · **Contributors**: 21
+- **Stars**: 929 · **Forks**: 40 · **Open issues**: 148 · **Contributors**: 21
 
 ## Totals (cumulative)
 
-- **Releases**: 190 · **Merged PRs**: 739 · **Open PRs**: 2 · **Closed issues**: 143 · **Open issues**: 3 · **Commits**: 1252
+- **Releases**: 191 · **Merged PRs**: 739 · **Open PRs**: 2 · **Closed issues**: 144 · **Open issues**: 4 · **Commits**: 1252
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-11 | 12 | 64 | 1 | 11 | 2 | 55 |
-| last60d | 2026-09-11 | 20 | 126 | 1 | 22 | 2 | 101 |
-| 90d | 2026-08-12 | 38 | 248 | 1 | 36 | 2 | 242 |
-| last180d | 2026-05-14 | 100 | 566 | 2 | 90 | 2 | 561 |
-| 360d | 2025-11-15 | 100 | 739 | 2 | 143 | 3 | 1225 |
-| last720d | 2024-11-20 | 100 | 739 | 2 | 143 | 3 | 1252 |
+| 30d | 2026-10-12 | 13 | 64 | 1 | 12 | 3 | 55 |
+| last60d | 2026-09-12 | 20 | 117 | 1 | 23 | 3 | 101 |
+| 90d | 2026-08-13 | 39 | 247 | 1 | 37 | 3 | 242 |
+| last180d | 2026-05-15 | 99 | 565 | 2 | 91 | 3 | 561 |
+| 360d | 2025-11-16 | 100 | 739 | 2 | 144 | 4 | 1225 |
+| last720d | 2024-11-21 | 100 | 739 | 2 | 144 | 4 | 1252 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [checksums.txt](https://github.com/janosmiko/lfk/releases/download/v0.19.15/checksums.txt) | 1.6 KiB | `other` |
-| [checksums.txt.sigstore](https://github.com/janosmiko/lfk/releases/download/v0.19.15/checksums.txt.sigstore) | 9.5 KiB | `other` |
-| [lfk_0.19.15_darwin_amd64.zip](https://github.com/janosmiko/lfk/releases/download/v0.19.15/lfk_0.19.15_darwin_amd64.zip) | 20.7 MiB | `native/darwin/x64` |
-| [lfk_0.19.15_darwin_amd64.zip.sbom.json](https://github.com/janosmiko/lfk/releases/download/v0.19.15/lfk_0.19.15_darwin_amd64.zip.sbom.json) | 119.6 KiB | `native/darwin/x64` |
-| [lfk_0.19.15_darwin_arm64.zip](https://github.com/janosmiko/lfk/releases/download/v0.19.15/lfk_0.19.15_darwin_arm64.zip) | 19.1 MiB | `native/darwin/arm64` |
-| [lfk_0.19.15_darwin_arm64.zip.sbom.json](https://github.com/janosmiko/lfk/releases/download/v0.19.15/lfk_0.19.15_darwin_arm64.zip.sbom.json) | 119.6 KiB | `native/darwin/arm64` |
-| [lfk_0.19.15_linux_amd64.deb](https://github.com/janosmiko/lfk/releases/download/v0.19.15/lfk_0.19.15_linux_amd64.deb) | 20.2 MiB | `native/linux/x64` |
-| [lfk_0.19.15_linux_amd64.rpm](https://github.com/janosmiko/lfk/releases/download/v0.19.15/lfk_0.19.15_linux_amd64.rpm) | 21.0 MiB | `native/linux/x64` |
-| [lfk_0.19.15_linux_amd64.tar.gz](https://github.com/janosmiko/lfk/releases/download/v0.19.15/lfk_0.19.15_linux_amd64.tar.gz) | 20.2 MiB | `native/linux/x64` |
-| [lfk_0.19.15_linux_amd64.tar.gz.sbom.json](https://github.com/janosmiko/lfk/releases/download/v0.19.15/lfk_0.19.15_linux_amd64.tar.gz.sbom.json) | 119.8 KiB | `native/linux/x64` |
-| [lfk_0.19.15_linux_arm64.deb](https://github.com/janosmiko/lfk/releases/download/v0.19.15/lfk_0.19.15_linux_arm64.deb) | 18.1 MiB | `native/linux/arm64` |
-| [lfk_0.19.15_linux_arm64.rpm](https://github.com/janosmiko/lfk/releases/download/v0.19.15/lfk_0.19.15_linux_arm64.rpm) | 18.7 MiB | `native/linux/arm64` |
-| [lfk_0.19.15_linux_arm64.tar.gz](https://github.com/janosmiko/lfk/releases/download/v0.19.15/lfk_0.19.15_linux_arm64.tar.gz) | 18.1 MiB | `native/linux/arm64` |
-| [lfk_0.19.15_linux_arm64.tar.gz.sbom.json](https://github.com/janosmiko/lfk/releases/download/v0.19.15/lfk_0.19.15_linux_arm64.tar.gz.sbom.json) | 119.8 KiB | `native/linux/arm64` |
-| [lfk_0.19.15_windows_amd64.zip](https://github.com/janosmiko/lfk/releases/download/v0.19.15/lfk_0.19.15_windows_amd64.zip) | 20.9 MiB | `native/win/x64` |
-| [lfk_0.19.15_windows_amd64.zip.sbom.json](https://github.com/janosmiko/lfk/releases/download/v0.19.15/lfk_0.19.15_windows_amd64.zip.sbom.json) | 121.2 KiB | `native/win/x64` |
-| [lfk_0.19.15_windows_arm64.zip](https://github.com/janosmiko/lfk/releases/download/v0.19.15/lfk_0.19.15_windows_arm64.zip) | 18.3 MiB | `native/win/arm64` |
-| [lfk_0.19.15_windows_arm64.zip.sbom.json](https://github.com/janosmiko/lfk/releases/download/v0.19.15/lfk_0.19.15_windows_arm64.zip.sbom.json) | 121.2 KiB | `native/win/arm64` |
+| [checksums.txt](https://github.com/janosmiko/lfk/releases/download/v0.19.16/checksums.txt) | 1.6 KiB | `other` |
+| [checksums.txt.sigstore](https://github.com/janosmiko/lfk/releases/download/v0.19.16/checksums.txt.sigstore) | 9.9 KiB | `other` |
+| [lfk_0.19.16_darwin_amd64.zip](https://github.com/janosmiko/lfk/releases/download/v0.19.16/lfk_0.19.16_darwin_amd64.zip) | 20.7 MiB | `native/darwin/x64` |
+| [lfk_0.19.16_darwin_amd64.zip.sbom.json](https://github.com/janosmiko/lfk/releases/download/v0.19.16/lfk_0.19.16_darwin_amd64.zip.sbom.json) | 119.6 KiB | `native/darwin/x64` |
+| [lfk_0.19.16_darwin_arm64.zip](https://github.com/janosmiko/lfk/releases/download/v0.19.16/lfk_0.19.16_darwin_arm64.zip) | 19.1 MiB | `native/darwin/arm64` |
+| [lfk_0.19.16_darwin_arm64.zip.sbom.json](https://github.com/janosmiko/lfk/releases/download/v0.19.16/lfk_0.19.16_darwin_arm64.zip.sbom.json) | 119.6 KiB | `native/darwin/arm64` |
+| [lfk_0.19.16_linux_amd64.deb](https://github.com/janosmiko/lfk/releases/download/v0.19.16/lfk_0.19.16_linux_amd64.deb) | 20.2 MiB | `native/linux/x64` |
+| [lfk_0.19.16_linux_amd64.rpm](https://github.com/janosmiko/lfk/releases/download/v0.19.16/lfk_0.19.16_linux_amd64.rpm) | 21.0 MiB | `native/linux/x64` |
+| [lfk_0.19.16_linux_amd64.tar.gz](https://github.com/janosmiko/lfk/releases/download/v0.19.16/lfk_0.19.16_linux_amd64.tar.gz) | 20.2 MiB | `native/linux/x64` |
+| [lfk_0.19.16_linux_amd64.tar.gz.sbom.json](https://github.com/janosmiko/lfk/releases/download/v0.19.16/lfk_0.19.16_linux_amd64.tar.gz.sbom.json) | 119.8 KiB | `native/linux/x64` |
+| [lfk_0.19.16_linux_arm64.deb](https://github.com/janosmiko/lfk/releases/download/v0.19.16/lfk_0.19.16_linux_arm64.deb) | 18.1 MiB | `native/linux/arm64` |
+| [lfk_0.19.16_linux_arm64.rpm](https://github.com/janosmiko/lfk/releases/download/v0.19.16/lfk_0.19.16_linux_arm64.rpm) | 18.7 MiB | `native/linux/arm64` |
+| [lfk_0.19.16_linux_arm64.tar.gz](https://github.com/janosmiko/lfk/releases/download/v0.19.16/lfk_0.19.16_linux_arm64.tar.gz) | 18.1 MiB | `native/linux/arm64` |
+| [lfk_0.19.16_linux_arm64.tar.gz.sbom.json](https://github.com/janosmiko/lfk/releases/download/v0.19.16/lfk_0.19.16_linux_arm64.tar.gz.sbom.json) | 119.8 KiB | `native/linux/arm64` |
+| [lfk_0.19.16_windows_amd64.zip](https://github.com/janosmiko/lfk/releases/download/v0.19.16/lfk_0.19.16_windows_amd64.zip) | 20.9 MiB | `native/win/x64` |
+| [lfk_0.19.16_windows_amd64.zip.sbom.json](https://github.com/janosmiko/lfk/releases/download/v0.19.16/lfk_0.19.16_windows_amd64.zip.sbom.json) | 121.2 KiB | `native/win/x64` |
+| [lfk_0.19.16_windows_arm64.zip](https://github.com/janosmiko/lfk/releases/download/v0.19.16/lfk_0.19.16_windows_arm64.zip) | 18.3 MiB | `native/win/arm64` |
+| [lfk_0.19.16_windows_arm64.zip.sbom.json](https://github.com/janosmiko/lfk/releases/download/v0.19.16/lfk_0.19.16_windows_arm64.zip.sbom.json) | 121.2 KiB | `native/win/arm64` |
 
 ## Distribution status
 
-Reported by **6** distros on [repology.org](https://repology.org/project/lfk). **2** are ✅ on the latest upstream release, **4** are ⚠️ on an older version.
+Reported by **6** distros on [repology.org](https://repology.org/project/lfk). **3** are ✅ on the latest upstream release, **3** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -105,4 +105,4 @@ Install metadata for lfk lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261110.yml` · 2026-11-10T07:53:01Z._
+_Snapshot: `data/card/261111.yml` · 2026-11-11T06:54:48Z._
