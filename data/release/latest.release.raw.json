@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 1588,
       "digest": "sha256:21c793af51ad8100b8752c44d5031debcebf3aea42426f5a93584544feb8b2e2",
-      "download_count": 7,
+      "download_count": 11,
       "created_at": "2026-11-10T16:04:44Z",
       "updated_at": "2026-11-10T16:04:44Z",
       "browser_download_url": "https://github.com/janosmiko/lfk/releases/download/v0.19.16/checksums.txt"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 21657765,
       "digest": "sha256:51f8d14ee58ea529c8a3e1abe4065a7769b08b001c2c04b9a1de6eed166e8391",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-11-10T16:04:25Z",
       "updated_at": "2026-11-10T16:04:39Z",
       "browser_download_url": "https://github.com/janosmiko/lfk/releases/download/v0.19.16/lfk_0.19.16_darwin_amd64.zip"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 20066658,
       "digest": "sha256:31e3b0acf5e93c9559cba0766c98ef06b372395e30dd431b51a0a94c07aa5c43",
-      "download_count": 45,
+      "download_count": 106,
       "created_at": "2026-11-10T16:04:39Z",
       "updated_at": "2026-11-10T16:04:40Z",
       "browser_download_url": "https://github.com/janosmiko/lfk/releases/download/v0.19.16/lfk_0.19.16_darwin_arm64.zip"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 21207386,
       "digest": "sha256:3e79a250f7c721c12efd1d48cfd7f6b5d47a044aec6db6ece31d6a2df5e41518",
-      "download_count": 5,
+      "download_count": 11,
       "created_at": "2026-11-10T16:04:43Z",
       "updated_at": "2026-11-10T16:04:44Z",
       "browser_download_url": "https://github.com/janosmiko/lfk/releases/download/v0.19.16/lfk_0.19.16_linux_amd64.deb"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 21987010,
       "digest": "sha256:9a2e7a41f277d6d37c00a1ccb5e82ed8cc956c085ae101f489252a0f6c50c12b",
-      "download_count": 3,
+      "download_count": 6,
       "created_at": "2026-11-10T16:04:41Z",
       "updated_at": "2026-11-10T16:04:42Z",
       "browser_download_url": "https://github.com/janosmiko/lfk/releases/download/v0.19.16/lfk_0.19.16_linux_amd64.rpm"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 21223264,
       "digest": "sha256:1e2e1f2e2c6f38c3f5622671a4dce7992ad72b24099bb21fbaf0c982b6e620c9",
-      "download_count": 33,
+      "download_count": 62,
       "created_at": "2026-11-10T16:04:25Z",
       "updated_at": "2026-11-10T16:04:43Z",
       "browser_download_url": "https://github.com/janosmiko/lfk/releases/download/v0.19.16/lfk_0.19.16_linux_amd64.tar.gz"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 19014308,
       "digest": "sha256:54a86d3b5ce62dbc72d05c535cc3e8cad761f1552ab93dedccdf5515f307dd6e",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-11-10T16:04:42Z",
       "updated_at": "2026-11-10T16:04:43Z",
       "browser_download_url": "https://github.com/janosmiko/lfk/releases/download/v0.19.16/lfk_0.19.16_linux_arm64.deb"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 19625960,
       "digest": "sha256:9b8bcc3d572b75897d346efc677a11544509400a55550be078147dff0f338b79",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-11-10T16:04:40Z",
       "updated_at": "2026-11-10T16:04:41Z",
       "browser_download_url": "https://github.com/janosmiko/lfk/releases/download/v0.19.16/lfk_0.19.16_linux_arm64.rpm"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 19025706,
       "digest": "sha256:d8141f43303e8a83d0fb045fad50aa57ee4b8d750407aa545e977af62ba1a7fd",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-11-10T16:04:25Z",
       "updated_at": "2026-11-10T16:04:39Z",
       "browser_download_url": "https://github.com/janosmiko/lfk/releases/download/v0.19.16/lfk_0.19.16_linux_arm64.tar.gz"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 21913343,
       "digest": "sha256:c02a26db25a6acbaa61f72364b1c5b387c67394b1c9e6521281176153cfce36d",
-      "download_count": 35,
+      "download_count": 59,
       "created_at": "2026-11-10T16:04:40Z",
       "updated_at": "2026-11-10T16:04:42Z",
       "browser_download_url": "https://github.com/janosmiko/lfk/releases/download/v0.19.16/lfk_0.19.16_windows_amd64.zip"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 19196023,
       "digest": "sha256:e8dba587787030ad8b911412726d81a503cf69c7f1fb3f128a31e74835214f34",
-      "download_count": 11,
+      "download_count": 19,
       "created_at": "2026-11-10T16:04:25Z",
       "updated_at": "2026-11-10T16:04:39Z",
       "browser_download_url": "https://github.com/janosmiko/lfk/releases/download/v0.19.16/lfk_0.19.16_windows_arm64.zip"
