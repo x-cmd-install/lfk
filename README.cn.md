@@ -14,13 +14,13 @@ x install lfk
 
 ## 代码洞察
 
-合计: **296,299** 行代码（覆盖前 5 种语言、共 **1599** 个文件）。
+合计: **296,647** 行代码（覆盖前 5 种语言、共 **1604** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Go | 294,878 | 48,024 | 37,673 | 1593 |
-| Json | 1,109 | 0 | 0 | 2 |
-| Yaml | 125 | 648 | 56 | 2 |
+| Go | 295,221 | 48,036 | 37,721 | 1598 |
+| Json | 1,114 | 0 | 0 | 2 |
+| Yaml | 125 | 653 | 56 | 2 |
 | Makefile | 106 | 9 | 15 | 1 |
 | Nix | 53 | 7 | 10 | 1 |
 
@@ -30,7 +30,7 @@ x install lfk
 
 评分最低的几项:
 
-- **Code-Review** (1/10) — Found 3/20 approved changesets -- score normalized to 1
+- **Code-Review** (1/10) — Found 3/21 approved changesets -- score normalized to 1
 - **Branch-Protection** (4/10) — branch protection is not maximal on development and all release branches
 - **Contributors** (3/10) — project has 1 contributing companies or organizations -- score normalized to 3
 
@@ -41,8 +41,8 @@ x install lfk
 
 ## 发布
 
-- **最新版本**: `v0.19.17` (2026-11-12)
-- **最近提交**: 2026-11-12
+- **最新版本**: `v0.19.18` (2026-11-15)
+- **最近提交**: 2026-11-15
 - **Release 含资产**: 18 个
 
 ## 流行度
@@ -51,49 +51,49 @@ x install lfk
 
 ## 累计统计
 
-- **发布数**: 192 · **已合并 PR**: 743 · **开放 PR**: 3 · **已关闭 issue**: 146 · **开放 issue**: 3 · **提交数**: 1256
+- **发布数**: 193 · **已合并 PR**: 746 · **开放 PR**: 1 · **已关闭 issue**: 147 · **开放 issue**: 2 · **提交数**: 1259
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-16 | 12 | 55 | 2 | 10 | 1 | 32 |
-| last60d | 2026-09-16 | 19 | 100 | 2 | 19 | 2 | 89 |
-| 90d | 2026-08-17 | 37 | 236 | 2 | 38 | 2 | 203 |
-| last180d | 2026-05-19 | 98 | 561 | 2 | 90 | 2 | 539 |
-| 360d | 2025-11-20 | 100 | 743 | 3 | 146 | 3 | 1229 |
-| last720d | 2024-11-25 | 100 | 743 | 3 | 146 | 3 | 1256 |
+| 30d | 2026-10-17 | 12 | 55 | 0 | 11 | 0 | 35 |
+| last60d | 2026-09-17 | 20 | 96 | 0 | 20 | 1 | 92 |
+| 90d | 2026-08-18 | 37 | 237 | 0 | 39 | 1 | 206 |
+| last180d | 2026-05-20 | 98 | 564 | 0 | 91 | 1 | 542 |
+| 360d | 2025-11-21 | 100 | 746 | 1 | 147 | 2 | 1232 |
+| last720d | 2024-11-26 | 100 | 746 | 1 | 147 | 2 | 1259 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [checksums.txt](https://github.com/janosmiko/lfk/releases/download/v0.19.17/checksums.txt) | 1.6 KiB | `other` |
-| [checksums.txt.sigstore](https://github.com/janosmiko/lfk/releases/download/v0.19.17/checksums.txt.sigstore) | 9.9 KiB | `other` |
-| [lfk_0.19.17_darwin_amd64.zip](https://github.com/janosmiko/lfk/releases/download/v0.19.17/lfk_0.19.17_darwin_amd64.zip) | 20.7 MiB | `native/darwin/x64` |
-| [lfk_0.19.17_darwin_amd64.zip.sbom.json](https://github.com/janosmiko/lfk/releases/download/v0.19.17/lfk_0.19.17_darwin_amd64.zip.sbom.json) | 119.6 KiB | `native/darwin/x64` |
-| [lfk_0.19.17_darwin_arm64.zip](https://github.com/janosmiko/lfk/releases/download/v0.19.17/lfk_0.19.17_darwin_arm64.zip) | 19.2 MiB | `native/darwin/arm64` |
-| [lfk_0.19.17_darwin_arm64.zip.sbom.json](https://github.com/janosmiko/lfk/releases/download/v0.19.17/lfk_0.19.17_darwin_arm64.zip.sbom.json) | 119.6 KiB | `native/darwin/arm64` |
-| [lfk_0.19.17_linux_amd64.deb](https://github.com/janosmiko/lfk/releases/download/v0.19.17/lfk_0.19.17_linux_amd64.deb) | 20.2 MiB | `native/linux/x64` |
-| [lfk_0.19.17_linux_amd64.rpm](https://github.com/janosmiko/lfk/releases/download/v0.19.17/lfk_0.19.17_linux_amd64.rpm) | 21.0 MiB | `native/linux/x64` |
-| [lfk_0.19.17_linux_amd64.tar.gz](https://github.com/janosmiko/lfk/releases/download/v0.19.17/lfk_0.19.17_linux_amd64.tar.gz) | 20.2 MiB | `native/linux/x64` |
-| [lfk_0.19.17_linux_amd64.tar.gz.sbom.json](https://github.com/janosmiko/lfk/releases/download/v0.19.17/lfk_0.19.17_linux_amd64.tar.gz.sbom.json) | 119.8 KiB | `native/linux/x64` |
-| [lfk_0.19.17_linux_arm64.deb](https://github.com/janosmiko/lfk/releases/download/v0.19.17/lfk_0.19.17_linux_arm64.deb) | 18.1 MiB | `native/linux/arm64` |
-| [lfk_0.19.17_linux_arm64.rpm](https://github.com/janosmiko/lfk/releases/download/v0.19.17/lfk_0.19.17_linux_arm64.rpm) | 18.7 MiB | `native/linux/arm64` |
-| [lfk_0.19.17_linux_arm64.tar.gz](https://github.com/janosmiko/lfk/releases/download/v0.19.17/lfk_0.19.17_linux_arm64.tar.gz) | 18.2 MiB | `native/linux/arm64` |
-| [lfk_0.19.17_linux_arm64.tar.gz.sbom.json](https://github.com/janosmiko/lfk/releases/download/v0.19.17/lfk_0.19.17_linux_arm64.tar.gz.sbom.json) | 119.8 KiB | `native/linux/arm64` |
-| [lfk_0.19.17_windows_amd64.zip](https://github.com/janosmiko/lfk/releases/download/v0.19.17/lfk_0.19.17_windows_amd64.zip) | 20.9 MiB | `native/win/x64` |
-| [lfk_0.19.17_windows_amd64.zip.sbom.json](https://github.com/janosmiko/lfk/releases/download/v0.19.17/lfk_0.19.17_windows_amd64.zip.sbom.json) | 121.2 KiB | `native/win/x64` |
-| [lfk_0.19.17_windows_arm64.zip](https://github.com/janosmiko/lfk/releases/download/v0.19.17/lfk_0.19.17_windows_arm64.zip) | 18.3 MiB | `native/win/arm64` |
-| [lfk_0.19.17_windows_arm64.zip.sbom.json](https://github.com/janosmiko/lfk/releases/download/v0.19.17/lfk_0.19.17_windows_arm64.zip.sbom.json) | 121.2 KiB | `native/win/arm64` |
+| [checksums.txt](https://github.com/janosmiko/lfk/releases/download/v0.19.18/checksums.txt) | 1.6 KiB | `other` |
+| [checksums.txt.sigstore](https://github.com/janosmiko/lfk/releases/download/v0.19.18/checksums.txt.sigstore) | 9.8 KiB | `other` |
+| [lfk_0.19.18_darwin_amd64.zip](https://github.com/janosmiko/lfk/releases/download/v0.19.18/lfk_0.19.18_darwin_amd64.zip) | 20.7 MiB | `native/darwin/x64` |
+| [lfk_0.19.18_darwin_amd64.zip.sbom.json](https://github.com/janosmiko/lfk/releases/download/v0.19.18/lfk_0.19.18_darwin_amd64.zip.sbom.json) | 119.6 KiB | `native/darwin/x64` |
+| [lfk_0.19.18_darwin_arm64.zip](https://github.com/janosmiko/lfk/releases/download/v0.19.18/lfk_0.19.18_darwin_arm64.zip) | 19.2 MiB | `native/darwin/arm64` |
+| [lfk_0.19.18_darwin_arm64.zip.sbom.json](https://github.com/janosmiko/lfk/releases/download/v0.19.18/lfk_0.19.18_darwin_arm64.zip.sbom.json) | 119.6 KiB | `native/darwin/arm64` |
+| [lfk_0.19.18_linux_amd64.deb](https://github.com/janosmiko/lfk/releases/download/v0.19.18/lfk_0.19.18_linux_amd64.deb) | 20.2 MiB | `native/linux/x64` |
+| [lfk_0.19.18_linux_amd64.rpm](https://github.com/janosmiko/lfk/releases/download/v0.19.18/lfk_0.19.18_linux_amd64.rpm) | 21.0 MiB | `native/linux/x64` |
+| [lfk_0.19.18_linux_amd64.tar.gz](https://github.com/janosmiko/lfk/releases/download/v0.19.18/lfk_0.19.18_linux_amd64.tar.gz) | 20.3 MiB | `native/linux/x64` |
+| [lfk_0.19.18_linux_amd64.tar.gz.sbom.json](https://github.com/janosmiko/lfk/releases/download/v0.19.18/lfk_0.19.18_linux_amd64.tar.gz.sbom.json) | 119.8 KiB | `native/linux/x64` |
+| [lfk_0.19.18_linux_arm64.deb](https://github.com/janosmiko/lfk/releases/download/v0.19.18/lfk_0.19.18_linux_arm64.deb) | 18.1 MiB | `native/linux/arm64` |
+| [lfk_0.19.18_linux_arm64.rpm](https://github.com/janosmiko/lfk/releases/download/v0.19.18/lfk_0.19.18_linux_arm64.rpm) | 18.7 MiB | `native/linux/arm64` |
+| [lfk_0.19.18_linux_arm64.tar.gz](https://github.com/janosmiko/lfk/releases/download/v0.19.18/lfk_0.19.18_linux_arm64.tar.gz) | 18.2 MiB | `native/linux/arm64` |
+| [lfk_0.19.18_linux_arm64.tar.gz.sbom.json](https://github.com/janosmiko/lfk/releases/download/v0.19.18/lfk_0.19.18_linux_arm64.tar.gz.sbom.json) | 119.8 KiB | `native/linux/arm64` |
+| [lfk_0.19.18_windows_amd64.zip](https://github.com/janosmiko/lfk/releases/download/v0.19.18/lfk_0.19.18_windows_amd64.zip) | 20.9 MiB | `native/win/x64` |
+| [lfk_0.19.18_windows_amd64.zip.sbom.json](https://github.com/janosmiko/lfk/releases/download/v0.19.18/lfk_0.19.18_windows_amd64.zip.sbom.json) | 121.2 KiB | `native/win/x64` |
+| [lfk_0.19.18_windows_arm64.zip](https://github.com/janosmiko/lfk/releases/download/v0.19.18/lfk_0.19.18_windows_arm64.zip) | 18.3 MiB | `native/win/arm64` |
+| [lfk_0.19.18_windows_arm64.zip.sbom.json](https://github.com/janosmiko/lfk/releases/download/v0.19.18/lfk_0.19.18_windows_arm64.zip.sbom.json) | 121.2 KiB | `native/win/arm64` |
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/lfk) 上共有 **6** 个发行版报告此项目。**3** 个 ✅ 已是最新上游版本，**3** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/lfk) 上共有 **6** 个发行版报告此项目。**4** 个 ✅ 已是最新上游版本，**2** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
-| Homebrew | `0.19.17` | ✅ latest |
+| Homebrew | `0.19.18` | ✅ latest |
 | Nix unstable | `0.14.19` | ⚠️ outdated |
 
 ## 改进这些数据
@@ -105,4 +105,4 @@ lfk 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261115.yml` · 2026-11-15T07:21:06Z._
+_数据快照: `data/card/261116.yml` · 2026-11-16T07:22:57Z._
