@@ -57,12 +57,12 @@ x install lfk
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 8 | 50 | 0 | 6 | 0 | 49 |
-| last60d | 2026-09-25 | 20 | 102 | 0 | 18 | 1 | 97 |
-| 90d | 2026-08-26 | 34 | 207 | 0 | 32 | 1 | 198 |
-| last180d | 2026-05-28 | 95 | 551 | 0 | 83 | 1 | 513 |
-| 360d | 2025-11-29 | 100 | 762 | 1 | 147 | 2 | 1248 |
-| last720d | 2024-12-04 | 100 | 762 | 1 | 147 | 2 | 1275 |
+| 30d | 2026-10-26 | 8 | 45 | 0 | 6 | 0 | 49 |
+| last60d | 2026-09-26 | 19 | 102 | 0 | 18 | 1 | 97 |
+| 90d | 2026-08-27 | 33 | 205 | 0 | 32 | 1 | 198 |
+| last180d | 2026-05-29 | 93 | 547 | 0 | 83 | 1 | 513 |
+| 360d | 2025-11-30 | 100 | 762 | 1 | 147 | 2 | 1248 |
+| last720d | 2024-12-05 | 100 | 762 | 1 | 147 | 2 | 1275 |
 
 ## Release 资产
 
@@ -87,15 +87,6 @@ x install lfk
 | [lfk_0.19.20_windows_arm64.zip](https://github.com/janosmiko/lfk/releases/download/v0.19.20/lfk_0.19.20_windows_arm64.zip) | 18.3 MiB | `native/win/arm64` |
 | [lfk_0.19.20_windows_arm64.zip.sbom.json](https://github.com/janosmiko/lfk/releases/download/v0.19.20/lfk_0.19.20_windows_arm64.zip.sbom.json) | 121.2 KiB | `native/win/arm64` |
 
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/lfk) 上共有 **6** 个发行版报告此项目。**2** 个 ✅ 已是最新上游版本，**4** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Homebrew | `0.19.20` | ✅ latest |
-| Nix unstable | `0.14.19` | ⚠️ outdated |
-
 ## 改进这些数据
 
 lfk 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `lfk` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -105,4 +96,4 @@ lfk 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261124.yml` · 2026-11-24T11:18:10Z._
+_数据快照: `data/card/261125.yml` · 2026-11-25T10:13:48Z._
