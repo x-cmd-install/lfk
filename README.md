@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 942 · **Forks**: 41 · **Open issues**: 149 · **Contributors**: 21
+- **Stars**: 943 · **Forks**: 41 · **Open issues**: 149 · **Contributors**: 21
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 8 | 45 | 0 | 6 | 0 | 49 |
-| last60d | 2026-09-26 | 19 | 102 | 0 | 18 | 1 | 97 |
-| 90d | 2026-08-27 | 33 | 205 | 0 | 32 | 1 | 198 |
-| last180d | 2026-05-29 | 93 | 547 | 0 | 83 | 1 | 513 |
-| 360d | 2025-11-30 | 100 | 762 | 1 | 147 | 2 | 1248 |
-| last720d | 2024-12-05 | 100 | 762 | 1 | 147 | 2 | 1275 |
+| 30d | 2026-10-27 | 8 | 45 | 0 | 6 | 0 | 49 |
+| last60d | 2026-09-27 | 19 | 101 | 0 | 17 | 1 | 97 |
+| 90d | 2026-08-28 | 33 | 200 | 0 | 31 | 1 | 198 |
+| last180d | 2026-05-30 | 92 | 545 | 0 | 78 | 1 | 513 |
+| 360d | 2025-12-01 | 100 | 762 | 1 | 147 | 2 | 1248 |
+| last720d | 2024-12-06 | 100 | 762 | 1 | 147 | 2 | 1275 |
 
 ## Release assets
 
@@ -87,6 +87,15 @@ Lowest-scoring checks:
 | [lfk_0.19.20_windows_arm64.zip](https://github.com/janosmiko/lfk/releases/download/v0.19.20/lfk_0.19.20_windows_arm64.zip) | 18.3 MiB | `native/win/arm64` |
 | [lfk_0.19.20_windows_arm64.zip.sbom.json](https://github.com/janosmiko/lfk/releases/download/v0.19.20/lfk_0.19.20_windows_arm64.zip.sbom.json) | 121.2 KiB | `native/win/arm64` |
 
+## Distribution status
+
+Reported by **6** distros on [repology.org](https://repology.org/project/lfk). **2** are ✅ on the latest upstream release, **4** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Homebrew | `0.19.20` | ✅ latest |
+| Nix unstable | `0.14.19` | ⚠️ outdated |
+
 ## Improve this data
 
 Install metadata for lfk lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `lfk` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -96,4 +105,4 @@ Install metadata for lfk lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261125.yml` · 2026-11-25T10:13:47Z._
+_Snapshot: `data/card/261126.yml` · 2026-11-26T08:57:24Z._
