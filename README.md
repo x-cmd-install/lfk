@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-28 | 9 | 48 | 0 | 6 | 0 | 52 |
-| last60d | 2026-09-28 | 20 | 100 | 0 | 17 | 1 | 100 |
-| 90d | 2026-08-29 | 33 | 202 | 0 | 31 | 1 | 201 |
-| last180d | 2026-05-31 | 92 | 535 | 0 | 75 | 1 | 516 |
-| 360d | 2025-12-02 | 100 | 765 | 1 | 147 | 2 | 1251 |
-| last720d | 2024-12-07 | 100 | 765 | 1 | 147 | 2 | 1278 |
+| 30d | 2026-10-29 | 9 | 48 | 0 | 6 | 0 | 52 |
+| last60d | 2026-09-29 | 20 | 100 | 0 | 17 | 1 | 100 |
+| 90d | 2026-08-30 | 32 | 202 | 0 | 31 | 1 | 201 |
+| last180d | 2026-06-01 | 90 | 518 | 0 | 71 | 1 | 516 |
+| 360d | 2025-12-03 | 100 | 765 | 1 | 147 | 2 | 1251 |
+| last720d | 2024-12-08 | 100 | 765 | 1 | 147 | 2 | 1278 |
 
 ## Release assets
 
@@ -96,4 +96,4 @@ Install metadata for lfk lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261127.yml` · 2026-11-27T09:39:09Z._
+_Snapshot: `data/card/261128.yml` · 2026-11-28T08:58:22Z._
